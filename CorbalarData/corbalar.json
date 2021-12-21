@@ -1,0 +1,58 @@
+[
+  {
+    "isim": "Ezogelin Çorbası",
+    "sure": "15 Dakika",
+    "kalori": "1 Porsiyon - 95 Kalori",
+    "malzemeler": "1- 1 su bardağı kırmızı mercimek\n2- 1 tatlı kaşığı pirinç\n3- 1 tatlı kaşığı bulgur\n4- 2 çay kaşığı pul biber\n5- 1 yemek kaşığı nane\n6- 2 diş sarımsak\n7- 1 orta boy soğan\n8- 1 yemek kaşığı biber salçası\n9- 1 yemek kaşığı tereyağı\n10- 2 litreye yakın sıcak su\n11- Tuz",
+    "yapilis": "·Ezogelin çorbası yapmak için düdüklü tencerede önce rendelemiş olduğumuz soğanı ve ezmiş olduğumuz sarımsağı tereyağında kavuruyoruz. Soğanlar diriliğini kaybetsin yeterli yakmadan orta ateşte kavuralım.\n·Soğanlar kavrulunca naneyi, kırmızı biberi ve salçayı ilave edip. Kavurmaya devam edelim.\n·Bir iki karıştırdıktan sonra yıkadığımız mercimeği, pirinci, bulguru ve tuzunu da ilave ederek karıştıralım.\n·Başka bir tarafta kaynamakta olan 2 litreye yakın suyu üzerine boşaltalım.\n·Düdüklünün kapağını ve düdüğünü kapattıktan sonra 10 dakika pişiriyoruz. Normal tencerede de yapabilirsiniz ama biraz daha geç pişecektir (yaklaşık 30-40 dakika sürecektir).",
+    "gorsel": "https://raw.githubusercontent.com/MuslumErfidan/OrnekJSON/main/ezogelin.jpg"
+  },
+  {
+    "isim": "Yayla Çorbası",
+    "sure": "40 Dakika",
+    "kalori": "1 Porsiyon - 112 Kalori",
+    "malzemeler": "1- 1 çay bardağı pirinç\n2- 3 su bardağı su\n3- 3 su bardağı sıcak su (tavuk veya kemik suyu)\n4- Tuz\nTerbiyesi için:\n1- 1 adet yumurta sarısı\n2- 1,5 su bardağı yoğurt\n3- 1 yemek kaşığı un\nSosu için:\n1- 2 yemek kaşığı tereyağı\n2- 1 yemek kaşığı kuru nane",
+    "yapilis": "·Yayla çorbası için ilk olarak pirinçler yıkanarak suda yumuşayıncaya kadar haşlanır.\n·Yayla çorbamızın terbiyesi için diğer taraftan yumurta sarısı, yoğurt, un bir kasede iyice çırpılır.\n·Pişen pirinçlere varsa et ya da kemik suyu yoksa 3 su bardağı sıcak su ilave edilir.\n·Çorbanın suyundan 1-2 kepçe alınarak yavaş yavaş alınıp terbiyeye ilave edilir.\n·Hafifçe sulanan bu karışım ılınmış olan çorbaya ilave edilir ve 1-2 taşım kaynatılır.\n·En son tuzu ilave edilir, bir kaç dakika daha kaynatılarak ocak kapatılır.\n·Üzerine sos için kuru nane eritilmiş tereyağında kızdırılarak gezdirilir. Yayla çorbamız servise hazır. Afiyet olsun.",
+    "gorsel": "https://raw.githubusercontent.com/MuslumErfidan/OrnekJSON/main/yayla.jpg"
+  },
+  {
+    "isim": "Mercimek Çorbası",
+    "sure": "45 Dakika",
+    "kalori": "1 Porsiyon - 130 Kalori",
+    "malzemeler": "1- 2 su bardağı kırmızı mercimek\n2- 1 adet soğan\n3- 2 yemek kaşığı un\n4- 1 adet havuç\n5- Yarım yemek kaşığı biber ya da  domates salçası (rengi kırmızı olsun isterseniz artırabilir ya da hiç kullanmayabilirsiniz)\n6- 1 tatlı kaşığı tuz\n7- Yarım çay kaşığı karabiber\n8- 1 çay kaşığı kimyon (isteğe bağlı)\n9- 2 litre sıcak su\n10- 5 yemek kaşığı sıvı yağ\nSosu için:\n1- 2 yemek kaşığı tereyağı\n2- 1 tatlı kaşığı kırmızı toz biber",
+    "yapilis": "·Mercimek çorbası için sıvı yağı tencereye alınarak yemeklik doğranan soğanlar hafif pembeleşinceye kadar kavrulur.\n·Daha sonra un ilave edilerek kısık ateşte kavurmaya devam edilir.\n·Salça kullanılacak ise salça ilave edilir, kavrulduktan sonra küp küp doğranmış havuç ve iyice yıkanıp suyu süzülen mercimekler ilave edilir.\n·Üzerine su eklenerek karıştırılır ve tencerenin kapağı kapatılır. Çorbamız kaynayana kadar orta ateşte, kaynadıktan sonra mercimekler ve havuçlar yumuşayana kadar ara ara karıştırılarak kısık ateşte pişirilir.\n·Çorba piştikten sonra el blenderı ile güzelce ezilir. Eğer blenderiniz yoksa süzgeçten de geçirebilirsiniz.\n·Karabiber, tuz ve isteğe bağlı olarak kimyon eklenir ve karıştırılır. 5 dakika daha pişirelerek ocaktan alınır.\n·Kıvamı koyu gelirse size, bir miktar su ilave edilerek bir taşım kaynatılır.\n·Bu arada küçük bir tavaya iki yemek kaşığı tereyağı alınır, kızdırılır ve bir tatlı kaşığı kırmızı toz biber eklenerek ocaktan alınır.\n·Mercimek çorbası servis kasesine alındıktan sonra üzerine kırmızı biberli sos gezdirilir ve bir dilim limon ile servis edilir.",
+    "gorsel": "https://raw.githubusercontent.com/MuslumErfidan/OrnekJSON/main/mercimek.jpg"
+  },
+  {
+    "isim": "Mantar Çorbası",
+    "sure": "35 Dakika",
+    "kalori": "1 Porsiyon - 230 Kalori",
+    "malzemeler": "1- 8-9 adet kültür mantarı\n2- 1 adet küçük kuru soğan\n3- 1 su bardağı süt\n4- 1 litre sıcak su\n5- 2 yemek kaşığı un (tepeleme)\n6- 3-4 yemek kaşığı sıvı yağ\n7- Karabiber\n8- Tuz\nÜzeri İçin:\n1- Tereyağı\n2- Kırmızı biber",
+    "yapilis": "·Mantar çorbası yapımı için öncelikle mantarları yıkayıp çok minik doğrayalım.\n·Soğanı çok ince doğrayıp sıvıyağda çevirelim.\n·Mantarları da ekleyelim ve az sulanana kadar kavuralım.\n·Unu ekleyelim, bir iki daha çevirelim.\n·Karabiberi ekleyelim ve sıcak suyu ekleyip kaynadıktan sonra oda sıcaklığındaki sütü ekleyip kaynara çıkana kadar karıştıralım.\n·Çorba kaynamaya başladıktan sonra 10 dk pişirelim ve altını kapatıp tuzunu atalım.\n·Mantar çorbasını servis ederken tereyağı ve kırmızı biberle hazırladığımız yağı üzerine gezdirelim. Lezzetli Mantar Çorbası servise hazır. Afiyet olsun.",
+    "gorsel": "https://raw.githubusercontent.com/MuslumErfidan/OrnekJSON/main/mantar.jpg"
+  },
+  {
+    "isim": "Domates Çorbası",
+    "sure": "35 Dakika",
+    "kalori": "1 Porsiyon - 70 Kalori",
+    "malzemeler": "1- 4-5 adet olgun domates\n2- 2 çorba kaşığı tereyağı\n3- 3 çorba kaşığı un\n4- 1 litre su\n5- 1 su bardağı süt\n6- 1 çorba kaşığı rendelenmiş taze kaşar",
+    "yapilis": "·Domates çorbası yapmak için yağ ve un bir tencerede hafifçe kavrulur.\n·Diğer taraftan kabuğu çıkarılıp, küp küp kesilmiş domates robottan geçirilip bu karışıma ilave edilir, birkaç dakika kavrulur.\n·Ara verilmeden bir litre kadar su ilave edilip karıştırma işlemini sürdürülür. 15 dakika bu şekilde kaynatılır.\n·Daha sonra süt ilave edilip birkaç dakika daha kaynatılarak tuzu ilave edilip ocaktan alınır.\n·Arzuya göre servis yaparken üzerine kaşar peyniri rendesi ilave edilir. Domates çorbamız servise hazır, afiyet olsun.",
+    "gorsel": "https://raw.githubusercontent.com/MuslumErfidan/OrnekJSON/main/domates.jpg"
+  },
+  {
+    "isim": "Yoğurt Çorbası",
+    "sure": "30 Dakika",
+    "kalori": "1 Porsiyon - 90 Kalori",
+    "malzemeler": "1- 8 yemek kaşığı yoğurt\n2- 2 yemek kaşığı un\n3- 1 tatlı kaşığı tuz\n4- 4 bardak soğuk su\n5- 2 avuç minik erişte\nSosu için:\n1- Yarım çay bardağı sıvı yağ\n2- 1,5 tatlı kaşığı nane\n3- 1 tatlı kaşığı pul biber",
+    "yapilis": "·Yoğurt çorbası için, öncelikle yoğurt ve unu tencereye alıp karıştırın.\n·Sonra ocağın altını yakın suyu ilave edin.\n·Kaynayana kadar sürekli karıştırın.\n·Kaynamaya başladıktan sonra erişteleri atın.\n·Erişteler pişince ocağın altını kapatın.\n·Ayrı bir tavada sos malzemelerini kızdırın.\n·Çorbanıza ilave edin.\n·Tuzunu ayarlayın, nefis yoğurt çorbamız servise hazır.Afiyet olsun.",
+    "gorsel": "https://raw.githubusercontent.com/MuslumErfidan/OrnekJSON/main/yogurt.jpg"
+  },
+  {
+    "isim": "Sebze Çorbası",
+    "sure": "1 Saat",
+    "kalori": "1 Porsiyon - 112 Kalori",
+    "malzemeler": "1- 1 kuru soğan\n2- 1 büyük patates\n3- 1 büyük havuç\n4- 1 tane kabak\n5- 2 sivri biber\n6- 1 kaşık salça\n7- Sıvı yağ\n8- Karabiber\n9- Pul biber\n10- Tuz\n11- 7 su bardağı sıcak su",
+    "yapilis": "·Kuru soğanı ve sivri biberi yemeklik doğrayalım.\n·Havuç, patates ve kabağı rendeleyelim.\n·Sıvı yağda kuru soğan ve sivri biberi hafif kavuralım, içine sırasıyla havuç patates ve kabağı ekleyip biraz kızartalım içine salçayı katıp kavuralım.\n·Kavrulan sebzelere sıcak suyu baharatları ve tuzu ilave edip yumuşayıncaya kadar pişirelim.\n·Pişen çorbayı blendırdan geçirip tekrardan ocağın üzerinde bir kaç dk. Daha kaynatıp ocağın altını kapatalım.\n·Muhteşem çorbamız hazır. Afiyet olsun.",
+    "gorsel": "https://raw.githubusercontent.com/MuslumErfidan/OrnekJSON/main/sebze.png"
+  }
+]
