@@ -1,0 +1,1690 @@
+{
+  "foods": [
+    {
+      "categoryName": "Çorbalar",
+      "categoryImage": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/CorbalarData/domates.jpg",
+      "foods": [
+        {
+          "foodName": "Brokoli Çorbası",
+          "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/brokoli_corbasi-93c380ed-0e90-4bb5-a46d-2db2902150a9.jpg",
+          "recipe": "•Temizleyip yıkadığınız brokoliyi, küp küp doğradığınız patatesi, halka halka dilimlenmiş havucu ve doğradığınız soğan bir tencereye koyun.\n•Üzerini geçecek kadar su ilave ederek sebzeler yumuşayana kadar haşlayın.\n•Başka bir tencerede tereyağını eritin ve unu ekleyerek kavurun.\n•Üzerine yavaş yavaş sütü ilave ederek karıştırarak beşamel sosu pişirin.\n•Sebzeleri beşamel sosun üzerine ilave ederek haşlama suyunun da yarısı kadarını tencereye alarak blender ile güzelce ezin.\n•Kıvamı koyu olursa kalan haşlama suyundan ilave ederek kıvamı ayarlayın.\n•Tuz ve karabiberi ekleyerek 3-4 dakika kadar kaynatın.\n•Son olarak çorbanın süt kremasını ilave edin ve 1-2 taşım kaynattıktan sonra çorbayı ateşten alabilirsiniz. Afiyet olsun.",
+          "kcal": 52,
+          "minute": 40,
+          "materials": [
+            {
+              "name": "•500 g brokoli"
+            },
+            {
+              "name": "•1 adet havuç"
+            },
+            {
+              "name": "•1 adet orta boy patates"
+            },
+            {
+              "name": "•1 adet soğan"
+            },
+            {
+              "name": "•Sıcak su (üzerini geçecek kadar)"
+            },
+            {
+              "name": "•2 su bardağı süt"
+            },
+            {
+              "name": "•1 çay bardağı süt kreması"
+            },
+            {
+              "name": "•2 yemek kaşığı tereyağı"
+            },
+            {
+              "name": "•1 yemek kaşığı un"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•Karabiber"
+            }
+          ]
+        },
+        {
+          "foodName": "Domates Çorbası",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/CorbalarData/domates.jpg",
+          "recipe": "•Domates çorbası yapmak için yağ ve un bir tencerede hafifçe kavrulur.\n•Diğer taraftan kabuğu çıkarılıp, küp küp kesilmiş domates robottan geçirilip bu karışıma ilave edilir, birkaç dakika kavrulur.\n•Ara verilmeden bir litre kadar su ilave edilip karıştırma işlemini sürdürülür. 15 dakika bu şekilde kaynatılır.\n•Daha sonra süt ilave edilip birkaç dakika daha kaynatılarak tuzu ilave edilip ocaktan alınır.\n•Arzuya göre servis yaparken üzerine kaşar peyniri rendesi ilave edilir. Domates çorbamız servise hazır, afiyet olsun.",
+          "kcal": 70,
+          "minute": 35,
+          "materials": [
+            {
+              "name": "•4-5 adet olgun domates"
+            },
+            {
+              "name": "•2 çorba kaşığı tereyağı"
+            },
+            {
+              "name": "•3 çorba kaşığı un"
+            },
+            {
+              "name": "•1 litre su"
+            },
+            {
+              "name": "•1 su bardağı süt"
+            },
+            {
+              "name": "•1 çorba kaşığı rendelenmiş taze kaşar"
+            }
+          ]
+        },
+        {
+          "foodName": "Ezogelin Çorbası",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/CorbalarData/ezogelin.jpg",
+          "recipe": "•Ezogelin çorbası yapmak için düdüklü tencerede önce rendelemiş olduğumuz soğanı ve ezmiş olduğumuz sarımsağı tereyağında kavuruyoruz. Soğanlar diriliğini kaybetsin yeterli yakmadan orta ateşte kavuralım.\n•Soğanlar kavrulunca naneyi, kırmızı biberi ve salçayı ilave edip. Kavurmaya devam edelim.\n•Bir iki karıştırdıktan sonra yıkadığımız mercimeği, pirinci, bulguru ve tuzunu da ilave ederek karıştıralım.\n•Başka bir tarafta kaynamakta olan 2 litreye yakın suyu üzerine boşaltalım.\n•Düdüklünün kapağını ve düdüğünü kapattıktan sonra 10 dakika pişiriyoruz. Normal tencerede de yapabilirsiniz ama biraz daha geç pişecektir (yaklaşık 30-40 dakika sürecektir).",
+          "kcal": 95,
+          "minute": 15,
+          "materials": [
+            {
+              "name": "•1 su bardağı kırmızı mercimek"
+            },
+            {
+              "name": "•1 tatlı kaşığı pirinç"
+            },
+            {
+              "name": "•1 tatlı kaşığı bulgur"
+            },
+            {
+              "name": "•2 çay kaşığı pul biber"
+            },
+            {
+              "name": "•1 yemek kaşığı nane"
+            },
+            {
+              "name": "•2 diş sarımsak"
+            },
+            {
+              "name": "•1 orta boy soğan"
+            },
+            {
+              "name": "•1 yemek kaşığı biber salçası"
+            },
+            {
+              "name": "•1 yemek kaşığı tereyağı"
+            },
+            {
+              "name": "•2 litreye yakın sıcak su"
+            },
+            {
+              "name": "•Tuz"
+            }
+          ]
+        },
+        {
+          "foodName": "Kabak Çorbası",
+          "image": "https://cdn.yemek.com/mncrop/940/625/uploads/2020/03/kremali-kabak-corbasi-tarifi.jpg",
+          "recipe": "•Tereyağı ve sıvı yağı tencereye koyup eritin.\n•Unu ilave edip kokusu çıkana kadar birkaç dakika kavurun.\n•Bir taraftan çırpma teliyle hızlıca çırpıp diğer taraftan sütü ilave edin.\n•Suyu da ilave edip, iyice karıştırdıktan sonra, kaynamasını sağlayın.\n•Kaynamaya başlayınca, kabuklarını soyup doğradığınız kabakları ilave edip kabaklar yumuşayana kadar pişirin.\n•Blendırdan geçirip, tuzunu, dereotunu ve baharatları ilave edin.\n•Çorbanızın kıvamı kullandığınız kabakların büyüklüğüne göre değişebilir.\n•Kıvamı koyu olursa, suyla ayarlayıp pişirin. Birde çorbanızı pişirirken, dibinin tutmaması için ara ara karıştırmayı unutmayın.\n•Arzuya göre üzerine tereyağı kızdırıp servis edin.",
+          "kcal": 68,
+          "minute": 25,
+          "materials": [
+            {
+              "name": "•2 adet yeşil kabak"
+            },
+            {
+              "name": "•2 yemek kaşığı un (Tepeleme)"
+            },
+            {
+              "name": "•1 yemek kaşığı dolusu tereyağı"
+            },
+            {
+              "name": "•1 yemek kaşığı sıvı yağ"
+            },
+            {
+              "name": "•3 su bardağı süt"
+            },
+            {
+              "name": "•4 su bardağı su"
+            },
+            {
+              "name": "•Bir tutam dereotu"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•Pul biber"
+            },
+            {
+              "name": "•Karabiber"
+            },
+            {
+              "name": "•Nane"
+            }
+          ]
+        },
+        {
+          "foodName": "Mantar Çorbası",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/CorbalarData/mantar.jpg",
+          "recipe": "•Mantar çorbası yapımı için öncelikle mantarları yıkayıp çok minik doğrayalım.\n•Soğanı çok ince doğrayıp sıvıyağda çevirelim.\n•Mantarları da ekleyelim ve az sulanana kadar kavuralım.\n•Unu ekleyelim, bir iki daha çevirelim.\n•Karabiberi ekleyelim ve sıcak suyu ekleyip kaynadıktan sonra oda sıcaklığındaki sütü ekleyip kaynara çıkana kadar karıştıralım.\n•Çorba kaynamaya başladıktan sonra 10 dk pişirelim ve altını kapatıp tuzunu atalım.\n•Mantar çorbasını servis ederken tereyağı ve kırmızı biberle hazırladığımız yağı üzerine gezdirelim. Lezzetli Mantar Çorbası servise hazır. Afiyet olsun.",
+          "kcal": 230,
+          "minute": 35,
+          "materials": [
+            {
+              "name": "•8-9 adet kültür mantarı"
+            },
+            {
+              "name": "•1 adet küçük kuru soğan"
+            },
+            {
+              "name": "•1 su bardağı süt"
+            },
+            {
+              "name": "•1 litre sıcak su"
+            },
+            {
+              "name": "•2 yemek kaşığı un (tepeleme)"
+            },
+            {
+              "name": "•3-4 yemek kaşığı sıvı yağ"
+            },
+            {
+              "name": "•Karabiber"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•Tereyağı"
+            },
+            {
+              "name": "•Kırmızı biber"
+            }
+          ]
+        },
+        {
+          "foodName": "Mercimek Çorbası",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/CorbalarData/mercimek.jpg",
+          "recipe": "•Mercimek çorbası için sıvı yağı tencereye alınarak yemeklik doğranan soğanlar hafif pembeleşinceye kadar kavrulur.\n•Daha sonra un ilave edilerek kısık ateşte kavurmaya devam edilir.\n•Salça kullanılacak ise salça ilave edilir, kavrulduktan sonra küp küp doğranmış havuç ve iyice yıkanıp suyu süzülen mercimekler ilave edilir.\n•Üzerine su eklenerek karıştırılır ve tencerenin kapağı kapatılır. Çorbamız kaynayana kadar orta ateşte, kaynadıktan sonra mercimekler ve havuçlar yumuşayana kadar ara ara karıştırılarak kısık ateşte pişirilir.\n•Çorba piştikten sonra el blenderı ile güzelce ezilir. Eğer blenderiniz yoksa süzgeçten de geçirebilirsiniz.\n•Karabiber, tuz ve isteğe bağlı olarak kimyon eklenir ve karıştırılır. 5 dakika daha pişirelerek ocaktan alınır.\n•Kıvamı koyu gelirse size, bir miktar su ilave edilerek bir taşım kaynatılır.\n•Bu arada küçük bir tavaya iki yemek kaşığı tereyağı alınır, kızdırılır ve bir tatlı kaşığı kırmızı toz biber eklenerek ocaktan alınır.\n•Mercimek çorbası servis kasesine alındıktan sonra üzerine kırmızı biberli sos gezdirilir ve bir dilim limon ile servis edilir.",
+          "kcal": 130,
+          "minute": 45,
+          "materials": [
+            {
+              "name": "•2 su bardağı kırmızı mercimek"
+            },
+            {
+              "name": "•1 adet soğan"
+            },
+            {
+              "name": "•2 yemek kaşığı un"
+            },
+            {
+              "name": "•1 adet havuç"
+            },
+            {
+              "name": "•Yarım yemek kaşığı biber ya da  domates salçası"
+            },
+            {
+              "name": "•1 tatlı kaşığı tuz"
+            },
+            {
+              "name": "•Yarım çay kaşığı karabiber"
+            },
+            {
+              "name": "•1 çay kaşığı kimyon"
+            },
+            {
+              "name": "•2 litre sıcak su"
+            },
+            {
+              "name": "•5 yemek kaşığı sıvı yağ"
+            },
+            {
+              "name": "•2 yemek kaşığı tereyağı"
+            }
+          ]
+        },
+        {
+          "foodName": "Patates Çorbası",
+          "image": "https://www.ardaninmutfagi.com/wp-content/uploads/2017/02/patates-corbasi-2.jpg",
+          "recipe": "•Öncelikle soğanı ve sarımsağı ince ince doğrayıp sıvı yağda pembeleşinceye kadar kavuruyoruz.\n•Ardından küp küp doğradığımız patatesleri ekleyip patatesler yumuşayıncaya kadar kavurmaya devam ediyoruz.\n•10 dk kadar sonra suyunu da ekleyip kaynamaya bırakıyoruz.\n•Diğer yanda meyanesi için yoğurt, un, yumurta sarısı ve limonu çırpıyoruz.\n•Çorbamız kaynayınca meyanesini ekleyip pişmeye bırakıyoruz.\n•Piştikten sonra üzerine tereyağı ve pul biberi ekleyip servis edebiliriz.",
+          "kcal": 105,
+          "minute": 40,
+          "materials": [
+            {
+              "name": "•2 adet patates"
+            },
+            {
+              "name": "•1 adet soğan"
+            },
+            {
+              "name": "•3 diş sarımsak"
+            },
+            {
+              "name": "•2 yemek kaşığı sıvı yağ"
+            },
+            {
+              "name": "•1 litre su"
+            },
+            {
+              "name": "•1 çay bardağı yoğurt"
+            },
+            {
+              "name": "•1 yemek kaşığı un"
+            },
+            {
+              "name": "•1 adet yumurta sarısı"
+            },
+            {
+              "name": "•Birkaç damla limon"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•Tereyağı"
+            },
+            {
+              "name": "•Pul biber"
+            }
+          ]
+        },
+        {
+          "foodName": "Sebze Çorbası",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/CorbalarData/sebze.png",
+          "recipe": "•Kuru soğanı ve sivri biberi yemeklik doğrayalım.\n•Havuç, patates ve kabağı rendeleyelim.\n•Sıvı yağda kuru soğan ve sivri biberi hafif kavuralım, içine sırasıyla havuç patates ve kabağı ekleyip biraz kızartalım içine salçayı katıp kavuralım.\n•Kavrulan sebzelere sıcak suyu baharatları ve tuzu ilave edip yumuşayıncaya kadar pişirelim.\n•Pişen çorbayı blendırdan geçirip tekrardan ocağın üzerinde bir kaç dk. Daha kaynatıp ocağın altını kapatalım.\n•Muhteşem çorbamız hazır. Afiyet olsun.",
+          "kcal": 110,
+          "minute": 60,
+          "materials": [
+            {
+              "name": "•1 kuru soğan"
+            },
+            {
+              "name": "•1 büyük patates"
+            },
+            {
+              "name": "•1 büyük havuç"
+            },
+            {
+              "name": "•1 tane kabak"
+            },
+            {
+              "name": "•2 sivri biber"
+            },
+            {
+              "name": "•1 kaşık salça"
+            },
+            {
+              "name": "•Sıvı yağ"
+            },
+            {
+              "name": "•Karabiber"
+            },
+            {
+              "name": "•Pul biber"
+            },
+            {
+              "name": "•7 su bardağı sıcak su"
+            },
+            {
+              "name": "•Tuz"
+            }
+          ]
+        },
+        {
+          "foodName": "Tarhana Çorbası",
+          "image": "https://iasbh.tmgrup.com.tr/4eb3c3/821/464/0/72/724/481?u=https://isbh.tmgrup.com.tr/sbh/2021/10/21/tarhana-corbasi-tarifi-ve-yapilisi-tarhana-corbasi-nasil-yapilir-1634820636194.jpg",
+          "recipe": "•Tenceremizin içerisine sıvı yağ, nane, salça, baharatlar ve tarhanayı ekleyip biraz karıştırarak kavuruyoruz. Dilerseniz tereyağı da kullanabilirsiniz.( Veya tarhanayı suyu ekledikten sonra ekleyip çırpıcı ile karıştırabilirsiniz. böylelikle topaklanma ihtimali azalır.)\n•Suyu yavaş yavaş ilave ediyoruz ve devamlı karıştırarak pişiriyoruz. Topaklanmaması için tel çırpıcı ile karıştırabilirsiniz. (kaynayana kadar karıştırarak pişirelim.)\n•Kaynadıktan sonra 5 dk daha bekleyip ocaktan alıyoruz, Afiyet olsun.",
+          "kcal": 150,
+          "minute": 25,
+          "materials": [
+            {
+              "name": "•3 yemek kaşığı ev tarhanası"
+            },
+            {
+              "name": "•1 yemek kaşığı nane"
+            },
+            {
+              "name": "•2 yemek kaşığı sıvı yağ"
+            },
+            {
+              "name": "•1 yemek kaşığı salça"
+            },
+            {
+              "name": "•6 su bardağı su"
+            },
+            {
+              "name": "•Kırmızı pul biber"
+            },
+            {
+              "name": "•Karabiber"
+            },
+            {
+              "name": "•Tuz"
+            }
+          ]
+        },
+        {
+          "foodName": "Terbiyeli Tavuk Çorbası",
+          "image": "https://im.haberturk.com/2020/04/27/ver1609251026/2660739_810x458.jpg",
+          "recipe": "•Önce tavukları haşlıyoruz.\n•Terbiyesini hazırlıyoruz un,yoğurt,yumurtayı bir kapta çırpıyoruz.\n•İçine yarım su bardağı su ilave edip iyice pütürsüz olacak şekilde çırpıyoruz.\n•Haşlanmış tavuğun suyundan sıcak olarak içine üç kepçe kadar alıp terbiyeyisine ilave edip iyice çırpıyoruz.\n•Çorbayı hazırlayacağım tencereye sıvı yağ ilave ediyoruz şehriyeyi hafif rengi dönmeden kavuruyoruz.\n•Sarımsağı rendeleyip içine ilave ediyoruz suyunu ilave ediyoruz.\n•Parçalanmış tavukları ilave ediyoruz bir taşım hepsini kaynatıyoruz.\n•Çorbanın içine terbiyesini ilave ediyoruz bir taşım kaynatıyoruz.\n•İçine yarım sıkılmış limon suyunu ve tuzunu ilave ederek çorbamızı bir taşım daha kaynatıyoruz. Kıvam alınca ocağı kapatıyoruz.\n•Üzerine tereyağ ve kırmızı biber kavurup servise sunuyoruz. Afiyetle.",
+          "kcal": 132,
+          "minute": 50,
+          "materials": [
+            {
+              "name": "•2 adet haşlanmış tavuk budu"
+            },
+            {
+              "name": "•3 yemek kaşığı şehriye"
+            },
+            {
+              "name": "•2 yemek kaşığı zeytinyağı"
+            },
+            {
+              "name": "•2 yemek kaşığı yoğurt"
+            },
+            {
+              "name": "•1.5 yemek kaşığı un"
+            },
+            {
+              "name": "•1 adet yumurtanın sarısı"
+            },
+            {
+              "name": "•2 diş rendelenmiş sarımsak"
+            },
+            {
+              "name": "•Yarım adet limon"
+            },
+            {
+              "name": "•1 çay kaşığı karabiber"
+            },
+            {
+              "name": "•1 tatlı kaşığı tuz"
+            },
+            {
+              "name": "•8-9 su bardağı su"
+            }
+          ]
+        },
+        {
+          "foodName": "Yayla Çorbası",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/CorbalarData/yayla.jpg",
+          "recipe": "•Yayla çorbası için ilk olarak pirinçler yıkanarak suda yumuşayıncaya kadar haşlanır.\n•Yayla çorbamızın terbiyesi için diğer taraftan yumurta sarısı, yoğurt, un bir kasede iyice çırpılır.\n•Pişen pirinçlere varsa et ya da kemik suyu yoksa 3 su bardağı sıcak su ilave edilir.\n•Çorbanın suyundan 1-2 kepçe alınarak yavaş yavaş alınıp terbiyeye ilave edilir.\n•Hafifçe sulanan bu karışım ılınmış olan çorbaya ilave edilir ve 1-2 taşım kaynatılır.\n•En son tuzu ilave edilir, bir kaç dakika daha kaynatılarak ocak kapatılır.\n•Üzerine sos için kuru nane eritilmiş tereyağında kızdırılarak gezdirilir. Yayla çorbamız servise hazır. Afiyet olsun.",
+          "kcal": 112,
+          "minute": 40,
+          "materials": [
+            {
+              "name": "•1 çay bardağı pirinç"
+            },
+            {
+              "name": "•3 su bardağı su"
+            },
+            {
+              "name": "•3 su bardağı sıcak su (tavuk veya kemik suyu)"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•1 adet yumurta sarısı"
+            },
+            {
+              "name": "•1,5 su bardağı yoğurt"
+            },
+            {
+              "name": "•1 yemek kaşığı un"
+            },
+            {
+              "name": "•2 yemek kaşığı tereyağı"
+            },
+            {
+              "name": "•1 yemek kaşığı kuru nane"
+            }
+          ]
+        },
+        {
+          "foodName": "Yoğurt Çorbası",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/CorbalarData/yogurt.jpg",
+          "recipe": "•Yoğurt çorbası için, öncelikle yoğurt ve unu tencereye alıp karıştırın.\n•Sonra ocağın altını yakın suyu ilave edin.\n•Kaynayana kadar sürekli karıştırın.\n•Kaynamaya başladıktan sonra erişteleri atın.\n•Erişteler pişince ocağın altını kapatın.\n•Ayrı bir tavada sos malzemelerini kızdırın.\n•Çorbanıza ilave edin.\n•Tuzunu ayarlayın, nefis yoğurt çorbamız servise hazır.Afiyet olsun.",
+          "kcal": 90,
+          "minute": 30,
+          "materials": [
+            {
+              "name": "•8 yemek kaşığı yoğurt"
+            },
+            {
+              "name": "•2 yemek kaşığı un"
+            },
+            {
+              "name": "•1 tatlı kaşığı tuz"
+            },
+            {
+              "name": "•4 bardak soğuk su"
+            },
+            {
+              "name": "•2 avuç minik erişte"
+            },
+            {
+              "name": "•Yarım çay bardağı sıvı yağ"
+            },
+            {
+              "name": "•1,5 tatlı kaşığı nane"
+            },
+            {
+              "name": "•1 tatlı kaşığı pul biber"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Ana Yemekler",
+      "categoryImage": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/AnayemeklerData/karn%C4%B1yar%C4%B1k.jpg",
+      "foods": [
+        {
+          "foodName": "Etli Nohut",
+          "image": "https://cdn.ye-mek.net/App_UI/Img/out/650/2014/09/etli-nohut-resimli-yemek-tarifi(11).jpg",
+          "recipe": "•Eti kuşbaşı doğrayarak yumuşayana kadar haşlayın.\n•Soğanları yemeklik doğrayarak sıvı yağda pembeleşene kadar kavurun.\n•Salçayı, tuzunu, pul biberini ilave edip 2 dakika daha kavurun.\n•Haşlanmış etleri ve haşlanmış nohutu da ilave ederek bir kaç kez karıştırın.\n•Daha sonra üzerlerine çıkacak kadar yaklaşık 6 su bardağı kaynamış su koyup beraber biraz daha (10-15 dakika kadar) kaynattıktan sonra ocağı kapatabilirsiniz. Afiyet olsun",
+          "kcal": 360,
+          "minute": 50,
+          "materials": [
+            {
+              "name": "•Yarım kilo kuşbaşı doğranmış et"
+            },
+            {
+              "name": "•1,5 su bardağı haşlanmış nohut"
+            },
+            {
+              "name": "•1 adet kuru soğan"
+            },
+            {
+              "name": "•3 yemek kaşığı sıvı yağ"
+            },
+            {
+              "name": "•2 yemek kaşığı salça"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•Pul biber"
+            }
+          ]
+        },
+        {
+          "foodName": "Hünkârbeğendi",
+          "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2015/05/hunkar-begendi-yemekcom.jpg",
+          "recipe": "•İlk olarak patlıcanlar fırında ya da ocakta közlenir.\n•Közlenen patlıcanlar kabuğu soyulup doğranır.\n•Tavada yağ ve un kavrulur.\n•Patlıcanlar tavaya eklenir ve iyice ezilir.\n•Ocağın altı iyice kısılarak süt yavaş yavaş karıştırarak patlıcana ilave edilir.\n•İyice karıştırılır.\n•Ardından kaşar eklenir, ocak kapatılır.\n•Kaşar da tamamen karıştırılarak beğendi hazırlanır.\n•Ayrı bir tava yağ ile ocağa konur.\n•Tava ısındığında etler ilave edilir.\n•Etler suyunu bırakıp çekene kadar kavrulur.\n•İnce doğranmış soğan ve biberler eklenir.\n•Onlar da kavrulunca salça eklenip karıştırılır.\n•Salçadan sonra çekirdekleri alınıp doğranmış domates eklenir.\n•1,5-2 su bardağı su da göz kararı eklenerek kapağı kapatılıp etler pişene kadar pişirilir.\n•Piştikten sonra tuzu karabiberi eklenir.\n•Servis tabağınıza önce beğendiyi üstüne de etinizi koyarak servis edebilirsiniz.",
+          "kcal": 460,
+          "minute": 80,
+          "materials": [
+            {
+              "name": "•200g kuşbaşı et"
+            },
+            {
+              "name": "•3 yemek kaşığı sıvı yağ"
+            },
+            {
+              "name": "•1 adet soğan"
+            },
+            {
+              "name": "•1 adet biber"
+            },
+            {
+              "name": "•1 adet domates"
+            },
+            {
+              "name": "•Yaklaşık 1 yemek kaşığı salça"
+            },
+            {
+              "name": "•1,5-2 su bardağı su"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•Karabiber"
+            },
+            {
+              "name": "•3 adet patlıcan"
+            },
+            {
+              "name": "•1 çay bardağı süt"
+            },
+            {
+              "name": "•1 yemek kaşığı tereyağı"
+            },
+            {
+              "name": "•1 yemek kaşığı un"
+            },
+            {
+              "name": "•Yarım su bardağı kaşar rendesi\n"
+            }
+          ]
+        },
+        {
+          "foodName": "İçli Köfte",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/AnayemeklerData/iclikofte.jpg",
+          "recipe": "•İlk olarak içli köftemizin iç harcını hazırlayarak soğumaya bırakalım. Bunun için genişçe bir tavaya sıvı yağ alarak küçük küçük doğradığımız soğanları hafif pembeleşinceye kadar kavuralım.\n•Daha sonra kıymayı ilave ederek yaklaşık 5 dakika kadar kavuralım.\n•Kavrulan kıymaya baharatları ve biber salçasını ilave edelim. Güzelce karıştırıp 2-3 dakika daha pişirelim.\n•Son olarak ocağı kapatalım, ceviz ve maydanozu ilave ederek karıştıralım.\n•İç harcımızı ocaktan alarak soğumaya bırakalım.\n•İçli köfte hamuru için derince bir kaba bulgur ve irmiği alalım.\n•Üzerine kaynar suyu dökerek üzerini streç film ile kapalım. Bulgurlar şişene kadar yaklaşık 10 dakika bekleyelim.\n•Yumuşayan bulgurlara un, yumurta, biber salçası ve baharatları ekleyerek güzelce yoğuralım.\n•Yoğurma aşamasında hamur elinize yapışabilir bu nedenle yanınızda bir miktar su bulundurarak elinizi ıslatabilirsiniz.\n•Hamurumuz hazır olduktan sonra şekillendirme aşamasına geçebiliriz. Tezgaha yaklaşık 20 cm uzunluğunda streç filmi açalım.\n•Üzerine mandalina boyutunda köfte hamurundan yerleştirerek tekrar streç film ile üzerini kapatalım.\n•Merdane yardımı ile hamurumuzu ince bir şekilde açalım.\n•Açtığımız hamurun üzerindeki streç filmi alarak, yuvarlak bir kase ile daire şeklinde keselim.\n•Hamurumuzun ortasına bol olacak şekilde iç harcımızdan koyalım ve her iki yanından streç filmi kapatalım.\n•İçli köftemizi D şeklinde uç kısımlarından birbirine yapıştıralım.\n•Bütün köfteleri bu şekilde hazırladıktan sonra kızdırdığımız bol yağda kızartalım. Köfteler pişerken hafif şişecekler ve yağın yüzeyine doğru çıkacaklardır. Rengi de kızarmış ise bu durumda yağdan alabilirsiniz.\n•Tüm köfteleri kızarttıktan sonra sıcak sıcak servis yapalım.",
+          "kcal": 160,
+          "minute": 75,
+          "materials": [
+            {
+              "name": "•2 su bardağı köftelik bulgur"
+            },
+            {
+              "name": "•1 çay bardağı irmik"
+            },
+            {
+              "name": "•3 su bardağı sıcak su"
+            },
+            {
+              "name": "•1 çay bardağı un"
+            },
+            {
+              "name": "•1 adet yumurta"
+            },
+            {
+              "name": "•1 tatlı kaşığı biber salçası"
+            },
+            {
+              "name": "•Pul biber"
+            },
+            {
+              "name": "•Karabiber"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•Yarım çay bardağı sıvı yağ"
+            },
+            {
+              "name": "•2 adet kuru soğan"
+            },
+            {
+              "name": "•250 gram kıyma"
+            },
+            {
+              "name": "•1 tatlı kaşığı biber salçası"
+            },
+            {
+              "name": "•Yarım su bardağı çekilmiş ceviz içi"
+            },
+            {
+              "name": "•1 tutam maydanoz"
+            },
+            {
+              "name": "•Kimyon"
+            }
+          ]
+        },
+        {
+          "foodName": "İzmir Köfte",
+          "image": "https://cdn.ye-mek.net/App_UI/Img/out/650/2017/12/firinda-izmir-kofte-resimli-yemek-tarifi(16).jpg?w=650&h=487",
+          "recipe": "•Ekmek içini ve arkasından soğanı rondodan geçiriyoruz.\n•Yumurtayı, ince ince doğranmış maydanozu, baharatları ve kıymayı da ekleyip iyice yoğuruyoruz.\n•Parmak uzunluğunda ince ve uzun bir şekil verip biraz dinlenmesi için tabağa sıralıyoruz.\n•Patatesleri soyup, elma dilimi şeklinde keselim. Patateslerle köfteler aynı boy olursa, daha şık gözükecektir.\n•Sıvı yağı iyice kızdırıp önce patatesleri arkasından da köfteleri azıcık kızartıyoruz.\n•Daha sonra tepsiye, yan yana olacak şekilde bir patates bir köfte şeklinde sıralayın.\n•Sonrasında sos tenceremize sıvı yağımızı alıyoruz, salçamızı da ekleyip iyice karıştıralım.\n•Arkasından rendelediğimiz 3 adet domatesi de ekleyip 10 dakika pişmeye bırakalım, isterseniz sarımsak da atabilirsiniz içine. Kekik ve tuzunu da ekledikten bir kaç dakika sonra ocaktan alıyoruz. Bu aşamada sosun içerisine 1,5 çay bardağı su ekleyerek de yapabilirsiniz dilerseniz eklemeden yemeği fırına koymadan önce tepsinize 1 çay bardağı sıcak su da ekleyebilirsiniz.\n•Hazırlanan sosu patates ve köftelerin üzerine hepsine değecek şekilde döküyoruz ki kurumasın pişerken.\n•Üzerine 1 adet soyulup dilimlenmiş domatesi sıralıyoruz, biberleri de kesip içini temizledikten sonra aralarına yerleştiriyoruz.\n•Fırına atmadan önce tepsinin kenarından 1 çay bardağı sıcak su koyup önceden ısıtılmış 180°C fırında patateslerin üzeri kızarana kadar pişiriyoruz.\n•Dilerseniz 30. dakikadan sonra açıp, tepsinin içindeki sostan köftelerin ve patateslerin üzerine biraz gezdirin.",
+          "kcal": 196,
+          "minute": 50,
+          "materials": [
+            {
+              "name": "•500 gram az yağlı kıyma"
+            },
+            {
+              "name": "•1 adet kuru soğan"
+            },
+            {
+              "name": "•1 adet yumurta"
+            },
+            {
+              "name": "•Yarım demet maydanoz"
+            },
+            {
+              "name": "•1,5 su bardağı bayat ekmek içi"
+            },
+            {
+              "name": "•Karabiber"
+            },
+            {
+              "name": "•Kekik"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•4 adet domates"
+            },
+            {
+              "name": "•4 adet patates"
+            },
+            {
+              "name": "•3 adet çarliston biber"
+            },
+            {
+              "name": "•1 tatlı kaşığı salça"
+            },
+            {
+              "name": "•Sıvı yağ"
+            }
+          ]
+        },
+        {
+          "foodName": "Karnıyarık",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/AnayemeklerData/karn%C4%B1yar%C4%B1k.jpg",
+          "recipe": "•Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.\n•İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.\n•Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.\n•Küp küp doğramış olduğunuz 2 adet domatesi, tuzu, baharatları ekleyerek karıştırın.\n•Üzerine bir çay bardağı su ekleyerek 5 dk kaynatın.\n•Tepsiye patlıcanların ortalarını keserek yerleştirin ve bu kesiklerden patlıcanın içine bastırarak iç malzemesine yer açın ve malzeme ile patlıcanları doldurun.\n•Doldurduğunuz patlıcanların üzerine ortadan ikiye kestiğiniz çeri domatesi ya da 1 adet domatesi eşit büyüklükte olacak şekilde paylaştırın ve kızarttığımız biberlerden birer tane koyun.\n•Ayrı bir yerde 1 kaşık salçayı, 1 su bardağı sıcak suda ezerek patlıcanların aralarına dökün. Kıymalar çıkmasın diye üzerine dökmeyin.\n•Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de pişecektir.",
+          "kcal": 190,
+          "minute": 50,
+          "materials": [
+            {
+              "name": "•6 adet küçük boy patlıcan"
+            },
+            {
+              "name": "•3 adet sivri biber"
+            },
+            {
+              "name": "•2 adet orta boy soğan"
+            },
+            {
+              "name": "•2 adet domates"
+            },
+            {
+              "name": "•2 adet sivri biber"
+            },
+            {
+              "name": "•2 diş sarımsak"
+            },
+            {
+              "name": "•Sıvı yağ"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•Karabiber"
+            },
+            {
+              "name": "•Kırmızı biber"
+            },
+            {
+              "name": "•200 gr kıyma"
+            },
+            {
+              "name": "•2 çay bardağı sıcak su"
+            },
+            {
+              "name": "•1 yemek kaşığı salça"
+            }
+          ]
+        },
+        {
+          "foodName": "Kuru Fasulye",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/AnayemeklerData/kurufasulye.jpg",
+          "recipe": "•Kuru fasulyeler bir gece önceden sıcak suya koyulur.\n•Soğan yemeklik doğranır, sıvı yağ koyduğunuz düdüklü tencerede soğanlar kavrulur.\n•Kuşbaşı doğranmış etler ilave edilerek hafifçe kavrulur.\n•Salça ve baharatlar ilave edildikten sonra suyunu süzmüş olduğunu kuru fasulye eklenir.\n•Üzerini geçecek kadar sıcak su ilave edilip düdüklü tencerenin kapağı kapatılır.\n•Kaynadıktan sonra kısık ateşe alınarak 40dk pişirilir. Afiyet olsun.",
+          "kcal": 145,
+          "minute": 50,
+          "materials": [
+            {
+              "name": "Kuru fasulye"
+            },
+            {
+              "name": "Kuru soğan"
+            },
+            {
+              "name": "Domates salçası"
+            },
+            {
+              "name": "Biber salçası"
+            },
+            {
+              "name": "Dana eti"
+            },
+            {
+              "name": "Sıvı Yağ"
+            },
+            {
+              "name": "Tuz"
+            },
+            {
+              "name": "Pul biber"
+            }
+          ]
+        },
+        {
+          "foodName": "Mercimek Köftesi",
+          "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2020/01/mercimek-koftesi-tarifi.jpg",
+          "recipe": "•Mercimek köftesi yapmak için mercimekler yıkanır ve uygun bir tencereye alınarak, üzerini 3 su bardağı su ilave edilir. İyice yumuşayıncaya kadar haşlanır.\n•Suyunu çekince bulgur içine atılır ve yarım saat kadar tencerenin kapağı kapalı olarak bekletilir.\n•Ayrı bir tavada ince kıyılmış soğan sıvı yağda hafif pembeleşene kadar kavrulur, içine salça ilave 1-2 dakika daha kavrularak ocaktan alınır.\n•Yarım saat dinlenen mercimeklere, kavurduğumuz salçalı soğan eklenir ve el yakmayacak bir sıcaklığa geldiğinde, güzelce yoğurulur.\n•İyice karışan köfte harcına tuz ve baharatlar ilave edilerek, tekrar yoğrulur.\n•Son olarak ince kıyılmış maydanoz, ince kıyılmış yeşil soğan ilave edilir. Malzemelerin güzelce karışması sağlanır\n•Köfte harcı biraz soğuduktan sonra, bütün malzemeler el ile yoğrularak yumurta büyüklüğünde parçalar koparılır.\n•Köftelere şekil verilerek, marul veya roka yaprakları üzerine dizilir.",
+          "kcal": 293,
+          "minute": 80,
+          "materials": [
+            {
+              "name": "•1 su bardağı kırmızı mercimek"
+            },
+            {
+              "name": "•1,5 su bardağı ince köftelik bulgur"
+            },
+            {
+              "name": "•1 baş kuru soğan"
+            },
+            {
+              "name": "•1 demet maydanoz"
+            },
+            {
+              "name": "•2-3 yemek kaşığı sıvı yağ"
+            },
+            {
+              "name": "•1 demet taze soğan"
+            },
+            {
+              "name": "•2 yemek kaşığı salça"
+            },
+            {
+              "name": "•3 su bardağı su"
+            },
+            {
+              "name": "•Yeteri kadar tuz"
+            },
+            {
+              "name": "•Kimyon"
+            },
+            {
+              "name": "•Pul biber"
+            },
+            {
+              "name": "•Karabiber"
+            }
+          ]
+        },
+        {
+          "foodName": "Patatesli Sulu Köfte",
+          "image": "https://www.nefisyemekmutfagi.com/wp-content/uploads/2017/06/patatesli-sulu-kofte-tarifi-malzemeleri-ve-yapilisi-99991-www-nefisyemekmutfagi-com-www-google-com-tr-nefisyemekmutfagi-com.jpg",
+          "recipe": "•İlk olarak yemeğimizin köftelerini hazırlayalım. Kıymanın üzerine bulgur, sarımsak, baharatlar ve biraz da tuz ekleyerek iyice yoğuralım. Vaktiniz varsa üzerini streçleyerek 15 dakika kadar buzdolabında bekletebilirsiniz.\n•Ufak ufak yuvarladığımız köfteleri içerisine un serptiğimiz kaba alarak una bulanmalarını sağlayalım.\n•Soğanları doğrayalım ve sıvı yağda soğanlar pembeleşinceye kadar kavuralım.\n•Domates salçasını ilave ederek kavuralım.\n•Küp küp doğramış olduğunuz patatesi ilave ederek 1-2 dakika kadar daha kavuralım.\n•Patateslerin üzerini 2 parmak geçecek kadar sıcak su ilave edelim.\n•Yemek kaynadıktan sonra köfteleri ilave ederek, tuz ve baharatını ilave edelim.\n•Su miktarını kontrol ederek yemeğimizi kaynadıktan sonra kısık ateşte pişmeye bırakalım.",
+          "kcal": 268,
+          "minute": 60,
+          "materials": [
+            {
+              "name": "•200 g kıyma"
+            },
+            {
+              "name": "•3 adet orta boy patates"
+            },
+            {
+              "name": "•1 adet soğan"
+            },
+            {
+              "name": "•2 yemek kaşığı kısırlık bulgur"
+            },
+            {
+              "name": "•2 yemek kaşığı domates salçası"
+            },
+            {
+              "name": "•2 yemek kaşığı sıvı yağ"
+            },
+            {
+              "name": "•2 yemek kaşığı kadar un"
+            },
+            {
+              "name": "•2-3 diş ezilmiş sarımsak"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•Karabiber"
+            }
+          ]
+        },
+        {
+          "foodName": "Sebzeli Etli Güveç",
+          "image": "https://tarifpaylasimlari.com/wp-content/uploads/2018/12/etli-guvec-660x330.jpg",
+          "recipe": "•Bir tavaya kuşbaşı doğradığınız etleri alarak, suyunu salıp çekinceye kadar pişirin ve üzerine sıvı yağı ekleyerek kavurun.\n•Yeterince kavurduktan sonra; yemeklik doğradığınız soğanları, biberleri ve sarımsakları ekleyip kavurun.\n•Domateslerin kabuğunu soyduktan sonra doğrayın, aynı şekilde patates ve patlıcanı da küp küp doğradıktan sonra biberlerle birlikte kavurduğumuz etlerin üzerine ilave edin.\n•Baharatları da ekledikten sonra, bir su bardağı kadar sıcak su ekleyin ve 3-5 dk kadar pişirin.\n•İyice karıştırdıktan sonra, küçük güveç kaplarına yerleştirin.\n•Salçayı sıcak suda ezerek, sebzelerin üzerine gelecek kadar dökün.\n•Güveçlerin üzerini alüminyum folyo ile kapatarak, fırın tepsisine yerleştirin ve 160 derece fırında, yaklaşık yarım saat kadar pişirin.\n•Kenarından pişip pişmediğini kontrol ederek, süreyi duruma göre uzatabilirsiniz.",
+          "kcal": 207,
+          "minute": 55,
+          "materials": [
+            {
+              "name": "•500 gram kuşbaşı et"
+            },
+            {
+              "name": "•2 adet soğan"
+            },
+            {
+              "name": "•2 adet patates"
+            },
+            {
+              "name": "•2 adet patlıcan"
+            },
+            {
+              "name": "•4 adet yeşil biber"
+            },
+            {
+              "name": "•3 adet domates"
+            },
+            {
+              "name": "•4-5 diş sarımsak"
+            },
+            {
+              "name": "•1 yemek kaşığı salça"
+            },
+            {
+              "name": "•5 yemek kaşığı sıvı yağ"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•Pul biber"
+            },
+            {
+              "name": "•Karabiber"
+            }
+          ]
+        },
+        {
+          "foodName": "Tavuk Sote",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/AnayemeklerData/tavuksote.jpg",
+          "recipe": "•Tavuk etini kuşbaşı doğrayın.\n•Soğanları yemeklik, biberleri julyen doğrayın, domatesleri de küp küp doğrayın.\n•Kısık ateşte tavukları arada karıştırarak kavurun.\n•Suyunu biraz çektikten sonra soğanları ve ince kesilmiş sarımsağı ekleyin.\n•1-2 dk kavurduktan sonra biberleri ilave edin.\n•Biberler de sotelenince domatesi, salçayı, baharatları ve tuzu ekleyip pişirmeye devam edin.\n•Son olarak 1 bardak suyu ekleyin ve etler pişene kadar kapağı kapalı bir şekilde pişirin.",
+          "kcal": 280,
+          "minute": 40,
+          "materials": [
+            {
+              "name": "•Yarım kg tavuk göğsü"
+            },
+            {
+              "name": "•2 yemek kaşığı sıvı yağ"
+            },
+            {
+              "name": "•1 tatlı kaşığı domates salçası"
+            },
+            {
+              "name": "•2 adet yeşil biber"
+            },
+            {
+              "name": "•1 adet kırmızı biber"
+            },
+            {
+              "name": "•1 adet soğan"
+            },
+            {
+              "name": "•2 diş sarımsak"
+            },
+            {
+              "name": "•2 adet domates"
+            },
+            {
+              "name": "•Karabiber"
+            },
+            {
+              "name": "•Pul biber"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•1 su bardağı su"
+            }
+          ]
+        },
+        {
+          "foodName": "Zeytinyağlı Biber Dolması",
+          "image": "https://i4.hurimg.com/i/hurriyet/75/750x422/5ee77b0518c77320c4a60ab1.jpg",
+          "recipe": "•Öncelikle iç malzemesi için kuru soğanlar ince yemeklik doğranır ve yarım çay bardağı zeytinyağında kavrulur.\n•Soğanlar kavrulunca rendelenmiş veya robottan geçirilmiş 1 adet domates eklenir ve karıştırılır.\n•Yıkanmış ve suyu süzülmüş pirinçler ilave edilerek hafifçe kavrulur.\n•Dolmalık fıstıklar, kuş üzümü, tarçın, kuru nane, karabiber, toz şeker, tuz ilave edilir.\n•Karıştırılarak ocaktan alınır. Son olarak ince doğranmış maydanoz ve taze naneler eklenir ve güzelce karıştırılır.\n•Diğer taraftan dolmalık biberlerin kapak kısmı açılır ve güzelce yıkanır.\n•Her biberin içine iç harcından doldurularak tencereye yerleştirilir. Burada önemli olan nokta pirinçlerin rahatça şişebilmesi için biberleri çok sıkı bir şekilde ve tepeleme doldurmamak gerekir, yarısını biraz geçecek kadar iç harcı doldurmanız yeterli olacaktır.\n•Dolmaların kapağına kapatmak için bir domates küçük doğranarak her biberin tepesini kapatılır.\n•Daha sonra uygun bir tencereye doldurulur.\n•Son olarak üzerlerine yarım çay bardağı kadar zeytinyağı gezdirilir ve biberlerin yarısına gelecek kadar su ilave edilir.\n•Tencerenin kapağı kapatılarak pişmeye bırakılır.\n•Pirinçler yumuşayıncaya kadar, yaklaşık 20-25 dakika kaynatılır.\n•Soğuduktan sonra servis edilir.",
+          "kcal": 273,
+          "minute": 55,
+          "materials": [
+            {
+              "name": "•2 adet kuru soğan"
+            },
+            {
+              "name": "•1 su bardağı pirinç"
+            },
+            {
+              "name": "•1 tatlı kaşığı tarçın"
+            },
+            {
+              "name": "•1 tatlı kaşığı karabiber"
+            },
+            {
+              "name": "•Yarım demet maydanoz"
+            },
+            {
+              "name": "•Birkaç dal taze nane"
+            },
+            {
+              "name": "•1 tatlı kaşığı kuru nane"
+            },
+            {
+              "name": "•1 tatlı kaşığı şeker"
+            },
+            {
+              "name": "•Yarım kahve fincanı kuş üzümü"
+            },
+            {
+              "name": "•Yarım kahve fincanı kadar dolmalık fıstık"
+            },
+            {
+              "name": "•1 adet büyük boy domates"
+            },
+            {
+              "name": "•1 çay bardağı zeytinyağı"
+            },
+            {
+              "name": "•Tuz"
+            }
+          ]
+        },
+        {
+          "foodName": "Zeytinyağlı Yaprak Sarması",
+          "image": "https://i4.hurimg.com/i/hurriyet/75/750x422/5b645cde66be5d25a0c1e13c.jpg",
+          "recipe": "•Zeytinyağlı biber dolmasında kullandığım iç harcının aynını kullandım.  Bunun için kuru soğanlar ince yemeklik doğranır ve yarım çay bardağı zeytinyağında kavrulur.\n•Soğanlar kavrulunca rendelenmiş veya robottan geçirilmiş 1 adet domates eklenir ve karıştırılır.\n•Yıkanmış ve suyu süzülmüş pirinçler ilave edilerek hafifçe kavrulur.\n•Dolmalık fıstıklar, kuş üzümü, tarçın, kuru nane, karabiber, toz şeker, tuz (yaprağınızın tuzuna göre ayarlayın, çok tuzlu ise hiç kullanmayın)  ilave edilir.\n•Karıştırılarak ocaktan alınır.\n•Son olarak İnce doğranmış maydanoz ve taze naneler eklenir ve güzelce karıştırılır.\n•Salamura yapraklar yıkanarak varsa fazla tuzu gitmesi için suda bekletilir.\n•Daha sonra hazırlanan iç harcından her yaprağın üzerine bir tatlı kaşığı kadar bırakılarak yapraklar sarılır.\n•Tencerenin tabanı kullanmayacağınız yırtık ya da damarlı yapraklarla örtülür ( Dibinin tutma ihtimaline karşı).\n•Sarılan yapraklar tencereye yerleştirilir.\n•Tüm yapraklar yerleştirildikten sonra üzerine yine yaprak kapatılır.\n•Böylelikle buharı içeride kalacağı için hem daha kolay pişecektir. Hem de en üstteki yaprakların rengi daha yeşil kalacaktır.\n•Son olarak yarım çay bardağı kadar zeytinyağı gezdirilir.\n•Yaprakların üzerine gelecek kadar su ilave edilerek tencerenin kapağı kapatılır ve kısık ateşte pişmeye bırakılır.\n•Pişerken suyunu kontrol ederek susuz kalırsa su ilave etmenizi öneririm.",
+          "kcal": 125,
+          "minute": 85,
+          "materials": [
+            {
+              "name": "•2 adet kuru soğan"
+            },
+            {
+              "name": "•1 su bardağı pirinç"
+            },
+            {
+              "name": "•1 tatlı kaşığı tarçın"
+            },
+            {
+              "name": "•1 tatlı kaşığı karabiber"
+            },
+            {
+              "name": "•1 tatlı kaşığı toz şeker"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•Yarım demet maydanoz"
+            },
+            {
+              "name": "•Bir kaç dal taze nane"
+            },
+            {
+              "name": "•1 tatlı kaşığı kuru nane"
+            },
+            {
+              "name": "•Yarım kahve fincanı kuş üzümü"
+            },
+            {
+              "name": "•Yarım kahve fincanı kadar dolmalık fıstık"
+            },
+            {
+              "name": "•1 büyük domates"
+            },
+            {
+              "name": "•1 çay bardağı zeytinyağı"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Salatalar",
+      "categoryImage": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/SalatalarData/coban.jpg",
+      "foods": [
+        {
+          "foodName": "Brokoli Salatası",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/SalatalarData/brokoli.jpg",
+          "recipe": "•Öncelikle brokolinin sap kısımlarını keselim ve ayırarak buhar tenceresinin içerisine alalım.\n•Ardından diğer malzemelerimizi hazırlayalım. Bunun için közlenmiş biber ve salatalık turşusunu doğrayalım.\n•Yeşil soğanı da ince ince doğrayalım. Malzemelerin miktarlarını sizler kişi sayınıza ya da damak zevkinize göre arttırabilirsiniz.\n•Brokolilerimizi buhar tenceresine alalım ve içerisine sıcak su koyduğumuz ocaktaki tencerenin üzerine yerleştirerek kapağını kapatalım ve 5 dakika kadar buharda haşlayalım.\n•Haşlanan brokolileri küçük parçalara ayırarak derin bir kap içerisine alalım.\n•Üzerine konserve mısır, doğranmış salatalık turşusu, kırmızı biber, yeşil soğanlar, ezilmiş ya da rendelenmiş sarımsak, tuz, limon suyu ve zeytinyağını alarak tüm malzemeler güzelce karışana kadar karıştıralım.\n•Salatamızı servis tabağına alarak servis edelim. Brokoli salatasını deneyeceklere afiyet olsun!",
+          "kcal": 73,
+          "minute": 15,
+          "materials": [
+            {
+              "name": "•500 gr brokoli"
+            },
+            {
+              "name": "•3-4 adet salatalık turşusu"
+            },
+            {
+              "name": "•1 kutu konserve mısır (220 gr)"
+            },
+            {
+              "name": "•2-3 adet közlenmiş kırmızı biber"
+            },
+            {
+              "name": "•2 dal yeşil soğan"
+            },
+            {
+              "name": "•2 diş sarımsak"
+            },
+            {
+              "name": "•3-4 yemek kaşığı zeytinyağı"
+            },
+            {
+              "name": "•1 çay kaşığı tuz"
+            },
+            {
+              "name": "•1 adet limon suyu"
+            }
+          ]
+        },
+        {
+          "foodName": "Çoban Salatası",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/SalatalarData/coban.jpg",
+          "recipe": "•İlk olarak domatesleri küçük küçük doğrayın ve karıştırma kabına alın.\n•Daha sonra soğanı da küçük küçük doğrayın ve üzerine tuz serpip elinizle güzelce ovun.\n•İnce ince doğradığımız yeşil biber ve küçük küçük doğradığımız salatalığımızı da karıştırma kabına alalım.\n•Son olarak maydanozu da ince ince doğrayalım ve doğradığımız diğer malzemelerimizin üzerine ekleyelim.\n•Salatamızın zeytin yağını ve limon suyunu da ekledikten sonra güzelce harmanlayalım ve servis tabağına alarak servis edelim. Afiyet olsun.",
+          "kcal": 110,
+          "minute": 10,
+          "materials": [
+            {
+              "name": "•4 adet domates"
+            },
+            {
+              "name": "•1 adet soğan"
+            },
+            {
+              "name": "•1 çay kaşığı tuz"
+            },
+            {
+              "name": "•2 adet yeşil biber"
+            },
+            {
+              "name": "•1 adet salatalık"
+            },
+            {
+              "name": "•Maydanoz"
+            },
+            {
+              "name": "•Limon suyu"
+            },
+            {
+              "name": "•Zeytinyağı"
+            }
+          ]
+        },
+        {
+          "foodName": "Havuç Salatası",
+          "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2017/10/havuc-salatasi-yeni.jpg",
+          "recipe": "•Havuçlar rendelenir.\n•Tavaya yağ konur.\n•Havuçlar eklenir.\n•Havuçların diriliği gidene kadar yağda 3-5 dk karıştırılarak pişirilir.\n•Sarımsaklar ezilir.\n•Havuçlar soğuyunca yoğurt, sarımsak ve tuzu eklenir, iyice karıştırılır.\n•Dolapta yarım saat kadar bekletilip servis edilir. Afiyet olsun.",
+          "kcal": 92,
+          "minute": 15,
+          "materials": [
+            {
+              "name": "•4-5 adet havuç"
+            },
+            {
+              "name": "•2 diş sarımsak"
+            },
+            {
+              "name": "•1,5 – 2 su bardağı yoğurt"
+            },
+            {
+              "name": "•2-3 yemek kaşığı sıvı yağ"
+            },
+            {
+              "name": "•Tuz"
+            }
+          ]
+        },
+        {
+          "foodName": "Kuskus Salatası",
+          "image": "https://cdn.ye-mek.net/App_UI/Img/out/650/2013/06/kuskus-salatasi-resimli-yemek-tarifi(7).jpg",
+          "recipe": "•Kuskus makarna haşlanarak süzülür.\n•Bir kapta zeytinyağı, limon suyu, nar ekşisi ve tuz karıştırılarak salatanın sosu hazırlanır.\n•Karıştırma kabına haşlanan kuskus makarna alınır ve üzerine mısır, ince doğranmış dereotu, ince doğranmış maydanoz, doğranmış kornişon turşu, ince doğranmış yeşil soğan, doğranmış kırmızı biberler eklenir.\n•Son olarak hazırlamış olduğumuz sos da karışıma eklenir.\n•Bütün malzemeler karıştırılarak servis tabağına alınır, afiyet olsun.",
+          "kcal": 170,
+          "minute": 30,
+          "materials": [
+            {
+              "name": "•Yarım paket kuskus makarna"
+            },
+            {
+              "name": "•1 su bardağı mısır"
+            },
+            {
+              "name": "•Yarım demet dereotu"
+            },
+            {
+              "name": "•Yarım demet maydanoz"
+            },
+            {
+              "name": "•1 adet orta boy kırmızı biber"
+            },
+            {
+              "name": "•3-4 dal taze yeşil soğan"
+            },
+            {
+              "name": "•5-6 adet kornişon turşu"
+            },
+            {
+              "name": "•1 yemek kaşığı nar ekşisi"
+            },
+            {
+              "name": "•1 tane limonun suyu"
+            },
+            {
+              "name": "•Yarım çay bardağı zeytinyağı"
+            },
+            {
+              "name": "•Yeteri kadar tuz"
+            }
+          ]
+        },
+        {
+          "foodName": "Mor Lahana Salatası",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/SalatalarData/morlahana.jpg",
+          "recipe": "•Önce mor lahanayı ince şekilde kıyalım ve uygun bir kaba alalım.\n•Tuz ve sirke ile ova ova lahananın diriliğini kaybedelim.\n•(püf noktası tuz ve sirke ile ovmak) Yumuşayan lahanaya kıyılmış yeşillikleri, limon suyunu, nar ekşisini ve zeytin yağını ilave edelim.\n•Salatamızı güzel bir şekilde karıştıralım ve servis tabağına alalım.\n•10 dakikada salatamız servise hazır.",
+          "kcal": 60,
+          "minute": 10,
+          "materials": [
+            {
+              "name": "•Yarım mor lahana"
+            },
+            {
+              "name": "•1 adet limon"
+            },
+            {
+              "name": "•2 yemek kaşığı sirke"
+            },
+            {
+              "name": "•1 yemek kaşığı nar ekşisi"
+            },
+            {
+              "name": "•Yarım demet maydanoz"
+            },
+            {
+              "name": "•Yarım demet dereotu"
+            },
+            {
+              "name": "•Zeytinyağı"
+            },
+            {
+              "name": "•Tuz"
+            }
+          ]
+        },
+        {
+          "foodName": "Patates Salatası",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/SalatalarData/patates.jpg",
+          "recipe": "•Zeytinyağımızı tavaya alalım, üzerine küçük küçük doğradığımız kuru soğanı ekleyerek kavurmaya başlayalım.\n•Ardından domates salçasını ekleyelim ve kavurmaya devam edelim.\n•Önceden haşladığımız ve doğradığımız patateslerimizi de ekleyelim.\n•Üzerine kuru nane, tuz, toz kırmızı biber ve karabiberi de ilave edip 3-4 dakika kavuralım.\n•Kavrulan patateslerimizi bir karıştırma kabına alarak üzerine doğradığımız taze soğan, maydanoz ve dereotunu ilave ederek güzelce karıştıralım.\n•Patates salatamız servise hazır. Afiyet olsun.",
+          "kcal": 145,
+          "minute": 15,
+          "materials": [
+            {
+              "name": "•2-3 yemek kaşığı zeytinyağı"
+            },
+            {
+              "name": "•1 adet kuru soğan"
+            },
+            {
+              "name": "•1 yemek kaşığı domates salçası"
+            },
+            {
+              "name": "•4-5 adet büyük boy patates"
+            },
+            {
+              "name": "•Kuru nane"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•3-4 dal taze soğan"
+            },
+            {
+              "name": "•Yarım demet maydanoz"
+            },
+            {
+              "name": "•Bir tutam dereotu"
+            }
+          ]
+        },
+        {
+          "foodName": "Rus Salatası",
+          "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2014/06/rus-salatasi-one-cikan2.jpg",
+          "recipe": "•Patatesleri havuçlarımızı güzelce küp şeklinde doğrayalım. Onları güzelce haşlayalım. Doğrayarak haşlarsak daha çabuk haşlanır.\n•Aynı şekilde bezelyeleri de haşlayalım.\n•Sonra sularını süzelim.\n•Diğer yandan konserve mısırıma yıkayıp süzelim.\n•Doğradığımız kornişonları da ekleyelim.\n•Son olarak mayonez ve yoğurdumuzu ekleyelim.\n•Hepsini karıştıralım. Damak zevkimize göre de tuz ekleyelim.",
+          "kcal": 255,
+          "minute": 35,
+          "materials": [
+            {
+              "name": "•3-4 adet patates"
+            },
+            {
+              "name": "•2-3 adet havuç"
+            },
+            {
+              "name": "•1 su bardağı bezelye"
+            },
+            {
+              "name": "•1 küçük konserve mısır"
+            },
+            {
+              "name": "•1 çay bardağı kadar kornişon"
+            },
+            {
+              "name": "•Yarım su bardağı mayonez"
+            },
+            {
+              "name": "•1 su bardağı yoğurt"
+            },
+            {
+              "name": "•Tuz"
+            }
+          ]
+        },
+        {
+          "foodName": "Yeşil Mercimek Salatası",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/SalatalarData/yesilmercimek.jpg",
+          "recipe": "•Mercimekler bol suda haşlanır.\n•Ayrı bir yerde, havuç da küp küp doğranıp haşlanır.\n•Yeşillikler ve diğer malzemeler de hazırlanır.\n•Haşlanan soğuyan mercimek ve havuca, tüm malzemeler eklenir.\n•Üzerine sos dökülür ve karıştırılır.Afiyet olsun.",
+          "kcal": 115,
+          "minute": 20,
+          "materials": [
+            {
+              "name": "•1 su bardağı yeşil mercimek"
+            },
+            {
+              "name": "•1 adet havuç"
+            },
+            {
+              "name": "•3-4 dal taze soğan"
+            },
+            {
+              "name": "•3-4 dal taze nane"
+            },
+            {
+              "name": "•Maydanoz"
+            },
+            {
+              "name": "•Dereotu"
+            },
+            {
+              "name": "•3-4 dal roka"
+            },
+            {
+              "name": "•1 adet kırmızı biber"
+            },
+            {
+              "name": "•1 çay bardağı haşlanmış mısır"
+            },
+            {
+              "name": "•3-4 adet salata turşusu"
+            },
+            {
+              "name": "•1 yemek kaşığı nar ekşisi"
+            },
+            {
+              "name": "•1 adet limon"
+            },
+            {
+              "name": "•Zeytinyağı"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Tatlılar",
+      "categoryImage": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/TatlilarData/profiterol.jpg",
+      "foods": [
+        {
+          "foodName": "Fırında Sütlaç",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/TatlilarData/sutlac.jpg",
+          "recipe": "Fırında sütlaç için öncelikle pirinci haşlayalım. Pirinçleri güzelce yıkadıktan sonra 2 su bardağı su ile pişene kadar haşlayın. Çok az sulu kalacaktır. Diğer malzemeleri ekleyelim ve sütlacı pişirelim. Haşlanan pirinçlerin üzerine sütü, vanilyayı ilave edip kaynatın. Karışım kaynamaya başlayınca şekeri ve yarım su bardağı sütle karıştırdığınız 3 yemek kaşığı buğday nişastasını ilave ediniz. 10-15 dk daha kaynatıp altını kapatın. Sütlaçları fırına sürelim. Fırın için uygun ısıya dayanıklı sütlaç kaselerine sütlaçlarınızı paylaştırın. Tepsinize soğuk su doldurun ve sütlaç kaplarını fırın tepsinize dizin (Tepsideki su sütlaç kaplarının yarısına kadar gelecek). Tepsiyi fırınınızın en üst rafına yerleştirin. 180 derecede, sütlaçlarınız kızarana kadar fırınlayın. Afiyet olsun. Not: Toprak kase kullanacaksanız bu tarife göre 6 adet çıkıyor.",
+          "kcal": 270,
+          "minute": 70,
+          "materials": [
+            {
+              "name": "•1 litre süt"
+            },
+            {
+              "name": "•1 su bardağı şeker"
+            },
+            {
+              "name": "•Yarım su bardağı pirinç"
+            },
+            {
+              "name": "•3 yemek kaşığı buğday nişastası"
+            },
+            {
+              "name": "•1 paket vanilya"
+            },
+            {
+              "name": "•2 su bardağı su"
+            },
+            {
+              "name": "•Yarım su bardağı süt (nişastayı açmak için)"
+            }
+          ]
+        },
+        {
+          "foodName": "Islak Kek",
+          "image": "https://yagcioglupastaneleri.com/derindeneyim/uploads/%C4%B1slak-kek2.jpg",
+          "recipe": "•Islak kek tarifi için ilk olarak yumurta, şeker iyice çırpıldıktan sonra süt, sıvı yağ, kakao eklenerek tekrar çırpılır.\n•Kekimizi ıslatmak için bu karışımdan bir su bardağı ayrılır.\n•Kalan karışıma kabartma tozu, vanilya ve elenmiş un karıştırılarak kek hamuru oluşturulur.\n•Yağlanmış tepsiye ya da borcama dökülerek 170 derecede fırına sürülür, yaklaşık 35 dakika pişirilir.\n•Keki beklerken üzeri için ayırdığınız karışımı uygun bir tavaya alarak üzerine süt ilave edilir ve ocakta 5 dakika kaynatılır.\n•Fırından çıkan kekin ilk sıcaklığı çıktıktan sonra yani 10 dk kadar sonra dilimlenir, üzerine yavaş yavaş ılıyan sos her yerine gelecek şekilde dökülür.\n•Üzerine iri parçalanan ceviz serpilir.\n•Kekin sosu güzelce çekmesi için 2-3 saat dinlendirildikten sonra ıslak kek servis edilebilir.",
+          "kcal": 570,
+          "minute": 45,
+          "materials": [
+            {
+              "name": "•3 adet yumurta"
+            },
+            {
+              "name": "•1,5 su bardağı şeker"
+            },
+            {
+              "name": "•1,5 su bardağı süt"
+            },
+            {
+              "name": "•1 su bardağı sıvı yağ"
+            },
+            {
+              "name": "•1 paket kakao"
+            },
+            {
+              "name": "•1 paket kabartma tozu"
+            },
+            {
+              "name": "•1 paket vanilya"
+            },
+            {
+              "name": "•2 su bardağı un"
+            },
+            {
+              "name": "•1 su bardağı kakaolu karışım"
+            },
+            {
+              "name": "•1,5 su bardağı süt"
+            },
+            {
+              "name": "•Ceviz"
+            }
+          ]
+        },
+        {
+          "foodName": "İrmik Helvası",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/TatlilarData/irmik.jpg",
+          "recipe": "•İrmik helvası yapmak için ilk olarak küçük bir tencereye şeker ve suyu alarak kaynamaya bırakalım.\n•Ayrı bir tencereye sütü alarak ayrıca kaynatalım.\n•Bir tencerede yağı eritelim. Yağımız kızdıktan sonra fıstık kullanacaksanız onları atarak kavurun yoksa  irmiği ekleyerek orta ateşte kavurmaya devam edelim (rengi dönünceye kadar)\n•Kavurduğumuz irmiğe şerbeti ardından da sıcak sütü yavaş bir şekilde ilave edelim. Bu aşamada eklediğiniz şerbet sıçrayabilir dikkatli olmanızı öneririm. Tencerenin kapağı yakınınızda olsun ilk sıçramalar geçene kadar kısa bir süre kapağı kapatın. Daha sonra kısık ateşte suyunu iyice çekene kadar karıştıralım. İstediğimiz kıvama gelince karıştırmayı bırakarak ateşten alıp, kapağını kapatıp demlenmeye bırakalım.\n•İrmik helvası servise hazır.",
+          "kcal": 450,
+          "minute": 40,
+          "materials": [
+            {
+              "name": "•3 su bardağı ince irmik"
+            },
+            {
+              "name": "•2,5 su bardağı şeker"
+            },
+            {
+              "name": "•350 g tereyağı veya dilerseniz margarin"
+            },
+            {
+              "name": "•2,5 su bardağı süt"
+            },
+            {
+              "name": "•2,5 su bardağı su"
+            }
+          ]
+        },
+        {
+          "foodName": "Magnolia",
+          "image": "https://nediyolar.com/wp-content/uploads/2020/08/magnolia-.jpg",
+          "recipe": "•Uygun bir tencereye 1 litre sütü alın.\n•Sütü, yumurtayı, kremayı, unu, şekeri karıştırarak pişirin.\n•Muhallebi kıvamına gelip, göz göz olana kadar karıştırın.\n•Koyu kıvam aldığında, içine vanilyayı da ekleyerek altını kapatın.\n•Bebe bisküvilerinizi rondodan geçirin.\n•Fındıkları da rondodan geçirip, bebe bisküvilerinin içine karıştırın.\n•Kuplara bisküvi fındık karışımınızdan, muhallebinizden ve meyvelerden koyun. Sıralaması, miktarları tamamen sizin zevkinize kalmış.\n•Magnolianın bu sunumu için; ben karadut, çilek ve fındık kullandım.",
+          "kcal": 390,
+          "minute": 50,
+          "materials": [
+            {
+              "name": "•5 su bardağı süt"
+            },
+            {
+              "name": "•4 yemek kaşığı un"
+            },
+            {
+              "name": "•100 ml krema"
+            },
+            {
+              "name": "•3/4 su bardağı şeker"
+            },
+            {
+              "name": "•Vanilya"
+            },
+            {
+              "name": "•1 yumurta"
+            },
+            {
+              "name": "•1 paket bebe bisküvisi"
+            },
+            {
+              "name": "•1 su bardağı fındık"
+            }
+          ]
+        },
+        {
+          "foodName": "Profiterol",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/TatlilarData/profiterol.jpg",
+          "recipe": "•İlk olarak profiterolün hamurunu hazırlayalım. Küçük bir tencereye 1 su bardağı suyu ve margarini koyarak kaynatın. Daha sonra 1 su bardağı unu ekleyerek iyice karıştırın. 2-3 dakika karışımı sürekli karıştırarak pişirin. Ocağı kapatarak 10-15 dakika hamurun soğumasını bekleyin. Hamur biraz dinlendikten sonra 3 adet yumurtayı hamura yedirmemiz gerekiyor ancak bu noktada önemli bir ayrıntı var. Yumurtaları teker teker hamura kırın ve birini iyice yedirmeden diğer yumurtayı kırmayın. Yumurtaları hamura iyice yedirdikten sonra yapışkan bir hamur elde etmiş olduk. Bu kısım biraz yorucu oluyor ama hamurun kabarması için iyice karıştırmış olmanız gerekiyor. Yumurtaları yedirdikten sonra hamuru 10 dakika dinlendirin.\n•Hamurlarımızı pişirelim. Yağlanmış tepsiye, kaşık yardımı ile hamurdan ceviz büyüklüğünde parçalar alarak aralarında 2-3 cm boşluk bulunmasına dikkat ederek resimdeki gibi dökün. Elinizle şekillendirmeye çalışmayın. Daha önceden 180 derecede ısıttığımız fırına hamuru sürün. üzeri kızarana kadar yaklaşık 40 dakika pişiriyorsunuz.\n•Profiterol Kremasını hazırlayalım. Hamurlar piştikten sonra kremasını hazırlayın. Vanilya hariç diğer malzemeleri bir tencereye koyarak kremayı pişirin. Kremayı ocaktan aldıktan sonra vanilyasını ekleyerek karıştırın.\n•Kremayı profiterol hamurlarına dolduralım. Profiterolün  pişen hamurlarını ikiye bölerek ya da varsa krema sıkma torbası ile içlerini krema ile doldurun ve tepsiye dizin.\n•Tatlımızın üzerine çikolata sosu gezdirelim. Tüm profiterolleri doldurduktan sonra üzerine çikolata sosunu ya da benmari usulü erittiğiniz çikolatayı gezdirin.",
+          "kcal": 107,
+          "minute": 80,
+          "materials": [
+            {
+              "name": "•1 su bardağı su"
+            },
+            {
+              "name": "•1 su bardağı un"
+            },
+            {
+              "name": "•125 gr tereyağı veya margarin"
+            },
+            {
+              "name": "•3 adet yumurta"
+            },
+            {
+              "name": "•2,5 su bardağı süt"
+            },
+            {
+              "name": "•3 yemek kaşığı un"
+            },
+            {
+              "name": "•1,5 çay bardağı şeker"
+            },
+            {
+              "name": "•1 adet yumurta"
+            },
+            {
+              "name": "•1 paket vanilya"
+            },
+            {
+              "name": "•1 paket hazır çikolata sosu ya da benmari usulü eritilmiş 80 gr bitter çikolata"
+            }
+          ]
+        },
+        {
+          "foodName": "Revani",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/TatlilarData/revani.jpg",
+          "recipe": "•İlk olarak şerbeti hazırlayalım. Şeker ve suyu küçük bir tencereye alarak orta ateşte kaynatın.\n•Kaynamaya başladıktan sonra şerbete limon suyu ilave ederek kısık ateşte yaklaşık 10 dakika kadar daha kaynatıp ocağı kapatın. Şerbeti bir kenara alarak soğumaya bırakın.\n•Keki hazırlayalım. Uygun bir karıştırma kabına yumurta ve şekeri alarak bol bol çırpın, karışım beyazlayıp köpük köpük olduğunda diğer malzemeleri de ilave ederek kek hamurunu güzelce çırpın.\n•Hamuru yağlanmış büyük boy borcama dökün. Benim kullandığım borcam 28*28 cm’dir.\n•Önceden 170 derecede ısıttığınız fırında üzeri pembeleşene kadar yaklaşık 35 dakika pişirin.\n•Fırından aldığımız tatlımız sıcakken soğumuş şerbeti üzerine dökün.\n•Tatlının şerbetini çekmesi için en az 2-3 saat dinlenmeye bırakın.\n•Dinlenen tatlımızı dilimleyip, üzerine isteğe göre hindistan cevizi yada antep fıstığı serperek servis edebilirsiniz.",
+          "kcal": 350,
+          "minute": 55,
+          "materials": [
+            {
+              "name": "•3 adet yumurta"
+            },
+            {
+              "name": "•1 çay bardağı toz şeker"
+            },
+            {
+              "name": "•1 çay bardağı sıvı yağ"
+            },
+            {
+              "name": "•1 su bardağı süt"
+            },
+            {
+              "name": "•1,5 su bardağı irmik"
+            },
+            {
+              "name": "•1 su bardağı un"
+            },
+            {
+              "name": "•1 paket kabartma tozu"
+            },
+            {
+              "name": "•1 paket vanilya"
+            },
+            {
+              "name": "•1 limon kabuğu rendesi"
+            },
+            {
+              "name": "•3 su bardağı toz şeker"
+            },
+            {
+              "name": "•4 su bardağı su"
+            },
+            {
+              "name": "•3-4 damla limon suyu"
+            }
+          ]
+        },
+        {
+          "foodName": "Sufle",
+          "image": "https://raw.githubusercontent.com/MuslumErfidan/YemekTarifleriData/main/TatlilarData/sufle.jpg",
+          "recipe": "Çikolatalı sufle yapmaya başlamadan önce İlk olarak fırını 220 derecede çalıştırın. Tereyağı ve bitter çikolataları teflon tavada kısık ateşte karıştırarak eritin. Eridikten sonra ocağı kapatarak unu ilave edin ve iyice karıştırın. Ayrı bir kapta yumurta ve şekeri karışım beyazlayana kadar çırpın. Şeker tadının ön plana çıkması için tuzu ekleyip çırpın. Çikolatalı harcı ilave ederek mikserle tekrar çırpın. Hamurumuz hazır. Sufle kaplarınızı ya da ısıya dayanıklı küçük kaplarınız varsa içlerini yağlayarak hamurdan eşit şekilde hepsine paylaştırın. Yaklaşık 4 kap çıkıyor. Daha önceden fansız çalıştırdığınız ve ısıttığınız  fırında 7-8 dk da sufleniz hazır. Fırından aldıktan sonra bir kaç dakika ilk sıcaklığının geçmesini bekleyin sonra ister tabağa çevirip ister kaseden yiyebilirsiniz. Kabınızı yağlamışsanız yapışmayacaktır. Folyodan sufle kapları var onları da kullanabilirsiniz, onlarda da suflenin çok rahat çıktığını göreceksiniz.",
+          "kcal": 170,
+          "minute": 25,
+          "materials": [
+            {
+              "name": "•3 tane yumurta"
+            },
+            {
+              "name": "•80g bitter çikolata"
+            },
+            {
+              "name": "•Yarım su bardağı un"
+            },
+            {
+              "name": "•50 g tereyağı"
+            },
+            {
+              "name": "•Yarım su bardağı şeker"
+            },
+            {
+              "name": "•1 çimdik tuz"
+            }
+          ]
+        },
+        {
+          "foodName": "Şekerpare",
+          "image": "https://www.droetker.com.tr/Recipe/Recipes/droetker.com.tr/tr-tr/dessert/image-thumb__25693__RecipeDetail/sekerpare.jpg",
+          "recipe": "•Şekerpare tatlısı için, ilk önce şerbeti hazırlayalım.\n•Bunun için şekeri, suyu ve limon bir tencereye koyup, kaynamaya başladıktan sonra 6-7 dakika kaynatıp altını kapatın.\n•Şekerpare hamuru için, yumuşamış tereyağını ve bütün malzemeleri bir kaba koyup, unu azar azar ilave edip yumuşak bir hamur elde edin.\n•Ceviz büyüklüğünde hamur alıp, oval şekil verin.\n•Yağlanmış borcama dizin.\n•Üzerlerine yumurta sarısı sürüp, çatalla çizik atın.\n•Önceden ısıtılmış 180 derece fırında, üzerleri kızarana kadar pişirin.\n•Soğumuş olan şerbeti, sıcak şekerparelerin üzerine dökün.\n•Üstünü kapatıp, şerbetinin çekmesini sağlayın.\n•Şekerpare tatlımız servise hazır.",
+          "kcal": 540,
+          "minute": 45,
+          "materials": [
+            {
+              "name": "•250 gram tereyağı"
+            },
+            {
+              "name": "•2 çay bardağı irmik"
+            },
+            {
+              "name": "•2 adet yumurta"
+            },
+            {
+              "name": "•Yarım çay kaşığı kabartma tozu"
+            },
+            {
+              "name": "•Yarım çay kaşığı karbonat"
+            },
+            {
+              "name": "•1,5 çay bardağı pudra şekeri"
+            },
+            {
+              "name": "•1 paket vanilya"
+            },
+            {
+              "name": "•3 su bardağı un"
+            },
+            {
+              "name": "•4 su bardağı toz şeker"
+            },
+            {
+              "name": "•4 su bardağı su"
+            },
+            {
+              "name": "•Çeyrek limon"
+            }
+          ]
+        },
+        {
+          "foodName": "Tiramisu Tart",
+          "image": "https://i.ytimg.com/vi/uz88gTjoGjE/hqdefault.jpg",
+          "recipe": "•İlk olarak kekimizi hazırlayalım. Karıştırma kabına yumurta ve şekeri alarak 5 dakika beyazlaşıp köpük köpük olana kadar çırpalım.\n•Diğer malzemeleri sırasıyla ekleyelim. Süt, sıvı yağı ilave ederek 1-2 dakika daha çırpalım.\n•Ardından elediğimiz kakao, un, kabartma tozu ve vanilyayı da ekleyerek çırpmaya devam edelim.\n•Malzemelerimiz güzelce karıştıktan sonra yağlanmış unlanmış turta kalıbına harcımızı dökelim.\n•Kekimizi önceden ısıttığımız 180 derecede 30 dakika kadar pişirelim. Piştikten sonra soğumaya bırakalım.\n•Muhallebi için labne hariç bütün malzemeleri uygun bir tencereye alarak karıştıralım.\n•Tencereyi ocağa alalım, muhallebi kaynayıp koyulaşana kadar pişirelim. Bu aşamada sürekli karıştıralım.\n•Muhallebimiz kaynayınca altını kapatalım ılımaya bırakalım. Ilıyan muhallebiye labne peyniri ekleyip çırpalım.\n•Soğumaya kekimizi uygun bir servis tabağına alalım ve ılık suda karıştırarak erittiğimiz kahveli suyla ıslatalım.\n•Üzerine muhallebiyi dökelim, spatula ile güzelce düzeltelim.\n•Muhallebimiz iyice soğuduktan sonra kakao eleyerek süsleyelim. Tiramisu Tart tarifimizi 1 gece buzdolabında dinlendirdikten sonra servis edelim. Afiyet olsun.",
+          "kcal": 460,
+          "minute": 45,
+          "materials": [
+            {
+              "name": "•3 adet yumurta"
+            },
+            {
+              "name": "•2 çay bardağı toz şeker"
+            },
+            {
+              "name": "•3,5 su bardağı süt"
+            },
+            {
+              "name": "•1 çay bardağı sıvı yağ"
+            },
+            {
+              "name": "•1 paket kabartma tozu"
+            },
+            {
+              "name": "•1 paket vanilya"
+            },
+            {
+              "name": "•4 yemek kaşığı kakao"
+            },
+            {
+              "name": "•2 çay bardağı un"
+            },
+            {
+              "name": "•Yarım su bardağı ılık su"
+            },
+            {
+              "name": "•1 tatlı kaşığı granül kahve"
+            },
+            {
+              "name": "•2 yemek kaşığı labne"
+            }
+          ]
+        },
+        {
+          "foodName": "Waffle",
+          "image": "https://cdn.yeniakit.com.tr/images/news/625/evde-waffle-nasil-yapilir-waffle-hamuru-tarifi-ve-malzemeleri-h1582380766-dce7ca.jpg",
+          "recipe": "•Yumurtayı ve şekeri köpürene kadar mikserle çırpıyoruz, ne kadar çırparsak yumurta kokusu az olur.\n•Yağı ve sütü ekleyip tekrar çırpıyoruz.\n•Son olarak vanilyayı kabartma tozunu ekliyoruz.\n•Unu yavaş yavaş ekleyerek akıcı kek hamurundan daha akıcı) bir hamur elde ediyoruz.\n•Tost makinasının en sıcak derecesinde çok az yağ sürerek 1 kepçe hamur koyarak pişiriyoruz.\n•Not: Tost makinasının üstüne kapatıp pişiriyoruz ilk 1 dk kapağını açmayın. Çevirirken ters yöne koyun ki izler şekilli çıksın.\n•Pişen waffle hamurunu, dilediğimiz şekilde süslüyoruz.",
+          "kcal": 291,
+          "minute": 35,
+          "materials": [
+            {
+              "name": "•1 su bardağı süt"
+            },
+            {
+              "name": "•Yarım çay bardağı şeker"
+            },
+            {
+              "name": "•Yarım çay bardağı sıvı yağ"
+            },
+            {
+              "name": "•1 yumurta"
+            },
+            {
+              "name": "•1 çay kaşığı kabartma tozu"
+            },
+            {
+              "name": "•1 paket vanilya"
+            },
+            {
+              "name": "•Yarım çay kaşığı tarçın"
+            },
+            {
+              "name": "•1,5 su bardağı un"
+            },
+            {
+              "name": "•Fındık ezmesi"
+            },
+            {
+              "name": "•Nutella"
+            },
+            {
+              "name": "•Kivi"
+            },
+            {
+              "name": "•Çilek"
+            },
+            {
+              "name": "•Çikolata sosu"
+            },
+            {
+              "name": "•Muz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
