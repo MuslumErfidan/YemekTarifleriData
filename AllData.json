@@ -2638,6 +2638,531 @@
           ]
         }
       ]
+    },
+    {
+      "categoryName": "Kahvaltılıklar",
+      "categoryImage": "https://hthayat.haberturk.com/im/2016/07/29/ver1493276661/1036237_620x360.jpg",
+      "foods": [
+        {
+          "foodName": "Ayvalık Tostu",
+          "image": "https://im.haberturk.com/2020/12/21/ver1608550009/2910834_810x458.jpg",
+          "recipe": "•Sosis ve sucuk jülyen şeklinde doğranır.\n•Tavada sotelenir.\n•Ayvalık tost ekmeği ikiye kesilir bir parçasına ketçap bir parçasına mayonez sürülür.\n•Salatalık turşusu da jülyen şeklinde doğranır.\n•İlk olarak turşu koyulur üzerine sırasıyla sucuk, kaşar ve sosis eklenir ve kapatılır.\n•Tost makinasına alınır biraz kızarınca tereyağ sürülür.",
+          "kcal": 414,
+          "minute": 15,
+          "materials": [
+            {
+              "name": "•6-7 adet sosis"
+            },
+            {
+              "name": "•Sucuk"
+            },
+            {
+              "name": "•Kaşar peyniri"
+            },
+            {
+              "name": "•3 dilim ayvalık tost ekmeği"
+            },
+            {
+              "name": "•Salatalık turşusu"
+            },
+            {
+              "name": "•Ketçap"
+            },
+            {
+              "name": "•Mayonez"
+            }
+          ]
+        },
+        {
+          "foodName": "Gözleme",
+          "image": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/12/patatesli-gozleme-one-cikan-yeni.jpg",
+          "recipe": "•Maydanozu ince kesin, peynirlere ekleyerek güzelce karıştırın.\n•Yufkayı düz bir zemine sererek pizza dilimi şeklinde 4’e bölün.\n•1 yufka parçasını serin,  tam ortasına gelecek şekilde iç harçtan koyun, kenarlarını gözleme kare olacak şekilde kapatın.\n•En alt kat ince olmasın isterseniz bir kenarı alta doğru kapatabilirsiniz.\n•Tüm yufkaları aynı şekilde sarın.\n•Tavaya sıvı yağ koyarak gözlemeleri önlü arkalı kızartın. Afiyet olsun.",
+          "kcal": 524,
+          "minute": 20,
+          "materials": [
+            {
+              "name": "•2 adet yufka"
+            },
+            {
+              "name": "•Yarım kase beyaz peynir"
+            },
+            {
+              "name": "•Yarım kase kaşar peyniri rendesi"
+            },
+            {
+              "name": "•1 Tutam maydanoz"
+            },
+            {
+              "name": "•Sıvı yağ"
+            }
+          ]
+        },
+        {
+          "foodName": "Krep",
+          "image": "https://i4.hurimg.com/i/hurriyet/75/0x0/5c10b7430f254418d86cee28.jpg",
+          "recipe": "•Krep tarifi hazırlamak için un, süt ve su ile hiç topak kalmayana kadar iyice çırpın.\n•Yumurtaları ekleyin biraz daha çırpın. Kek hamurundan daha akıcı bir kıvamda hamur edin.\n•Teflon tavaya 1 çay kaşığı kadar tereyağı koyup fırça ile yayın.\n•Kızgın tavaya 1 kepçe krep hamuru dökün, sağa sola eğerek yayın.\n•Her iki tarafını çevirerek hafif kızarana kadar orta ateşte pişirin. Tüm harcınız bitene kadar bu işleme devam edin. Krep tarifimiz hazır, afiyet olsun.",
+          "kcal": 187,
+          "minute": 30,
+          "materials": [
+            {
+              "name": "•2 adet yumurta"
+            },
+            {
+              "name": "•2 su bardağından biraz az un"
+            },
+            {
+              "name": "•2 su bardağı süt"
+            },
+            {
+              "name": "•1 çay kaşığı tuz"
+            },
+            {
+              "name": "•Tereyağı"
+            }
+          ]
+        },
+        {
+          "foodName": "Kuymak",
+          "image": "https://ykv.s3.eu-central-1.amazonaws.com/img/tarif/mgt/10-kuymak.jpg",
+          "recipe": "•Tereyağını eritin.\n•Çok kızarmadan mısır ununu ekleyin.\n•Kavurmaya başlayın.\n•Sürekli karıştırın.\n•Un kavrulunca 1 su bardağı suyu ekleyin, koyu kıvam alana kadar karıştırın.\n•Sonra kaşarı ekleyip kaşar eriyene kadar sürekli karıştırın.\n•Sıcak olarak hemen servis yapın. Afiyet olsun.",
+          "kcal": 488,
+          "minute": 10,
+          "materials": [
+            {
+              "name": "•2 yemek kaşığı tereyağı"
+            },
+            {
+              "name": "•2,5 yemek kaşığı mısır unu"
+            },
+            {
+              "name": "•1 su bardağı su"
+            },
+            {
+              "name": "•1 su bardağı küp küp doğranmış kaşar"
+            }
+          ]
+        },
+        {
+          "foodName": "Menemen",
+          "image": "https://ykv.s3.eu-central-1.amazonaws.com/img/tarif/mgt/ykvmayiswebsite23.jpg",
+          "recipe": "•Sıvı yağı ve biberleri tavaya alarak biberlerin rengi dönünceye kadar kavurun.\n•Üzerine kabukları soyulup küçük küçük doğranmış domatesleri ilave edin.\n•Kısık ocakta tavanın kapağını kapatarak domateslerin iyice pişmesini bekleyin.\n•Domatesler çok suyu değil, tavaya yapışıyorsa birazcık kaynar su ekleyebilirsiniz. Genellikle de bu duruma gerek kalmayacaktır.\n•Fotoğraftaki gibi domatesler piştikten sonra yumurtaları kırabilirsiniz. Yumurtaları ister ayrı bir kapta çırpıp ekleyin isterseniz de benim gibi tavaya kırıp tavada karıştırabilirsiniz.\n•Üzerine tuz ve dilediğiniz baharatları ekleyerek yumurtalar pişene kadar bekleyin.\n•Kaşar peyniri eklemek istiyorsanız bu aşamada peynirleri de ilave edebilirsiniz. Menemeni sıcak olarak servis yapın.",
+          "kcal": 177,
+          "minute": 25,
+          "materials": [
+            {
+              "name": "•2 yemek kaşığı sıvı yağ"
+            },
+            {
+              "name": "•3 adet yeşil biber"
+            },
+            {
+              "name": "•3 orta boy domates"
+            },
+            {
+              "name": "•Yarım çay kaşığı tuz"
+            },
+            {
+              "name": "•3 adet yumurta"
+            },
+            {
+              "name": "•Kaşar peyniri"
+            }
+          ]
+        },
+        {
+          "foodName": "Pankek",
+          "image": "https://www.yemekbilginiz.com/wp-content/uploads/2021/08/Meyveli-Pancake.jpg",
+          "recipe": "•Pankek yapmak için öncelikle yumurtalar ve şekeri uygun bir karıştırma kabına alarak iyice çırpalım.\n•Süt, un, kabartma tozu, vanilya ilave çırpma teli ile çırpalım. Siz dilerseniz mikser ile de çırpabilirsiniz. Kek kıvamından biraz daha koyu olacak şekilde hamur hazırlayalım.\n•Teflon ya da yapışmaz bir tavaya az sıvı yağı dökelim, fırça yardımı ile her tarafına dağıtalım. Sıvı yağı az kullanmak pankek yapmanın püf noktalarındandır. Dilerseniz peçete ile de tavaya dağıtabilirsiniz.\n•1 büyük kaşık hamur dökülerek hamurun kendi kendine yayılmasını bekleyelim.\n•Üzeri göz göz olmaya başlayan pankeklerimizi spatula yardımı ile ters çevirelim. Diğer taraflarını da pişirelim.\n•Her iki tarafı da pişen pankeklerimizi servis tabağına alalım.\n•Üzerine  pudra şekeri serpilerek zevkinize göre muz, kivi, çilek, çikolata, bal, sürülebilir çikolata, reçel ile servis edebilirsiniz.",
+          "kcal": 227,
+          "minute": 35,
+          "materials": [
+            {
+              "name": "•2 adet yumurta"
+            },
+            {
+              "name": "•2 yemek kaşığı şeker"
+            },
+            {
+              "name": "•1 su bardağı süt"
+            },
+            {
+              "name": "•1,5 su bardağı un"
+            },
+            {
+              "name": "•1 paket kabartma tozu"
+            },
+            {
+              "name": "•1 paket vanilya"
+            },
+            {
+              "name": "•Sıvı yağ"
+            }
+          ]
+        },
+        {
+          "foodName": "Patates Kızartması",
+          "image": "https://cdn.yemek.com/mncrop/940/625/uploads/2018/09/fast-food-patates-kizartmasi-puf-noktalari.jpg",
+          "recipe": "•Patatesler soyulup yıkanır. İyice kurulanıp ince dilimler halinde doğranır.\n•Üzerine un, nişasta, tuz ve kabartma tozu eklenir, iyice harmanlanır.\n•Ve direk kızgın yağa atılır.\n•Ara sıra karıştırarak kızartılır.\n•Kızarınca servis tabağına alınır.",
+          "kcal": 312,
+          "minute": 20,
+          "materials": [
+            {
+              "name": "•3-4 orta boy patates"
+            },
+            {
+              "name": "•1,5 yemek kaşığı un"
+            },
+            {
+              "name": "•1 tatlı kaşığı mısır nişastası"
+            },
+            {
+              "name": "•1 paket kabartma tozu"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•Sıvı yağ"
+            }
+          ]
+        },
+        {
+          "foodName": "Pişi",
+          "image": "https://cdn.yemek.com/mnresize/1250/833/uploads/2019/05/pisi-asama-18.jpg",
+          "recipe": "•İlk olarak yoğurma kabına kuru maya, şeker ve ılık suyu alarak karıştırın. Üzerini streç ile kapatarak 5 dakika kadar mayanın aktifleşmesini bekleyin. Yaş maya kullancaksanız ilk olarak suda erimesini sağlamalısınız.\n•Daha sonra, tuz ve yavaş yavaş un ekleyerek yumuşak bir hamur hazırlayın.\n•Üzerini streç film ile kapatarak hamur iki katı kabarana kadar (yaklaşık 1 saat) mayalanmasını bekleyin.\n•Hazırladığınız ya da aldığınız hamurdan parçalar kopararak yağlı zeminde elinizle bastırarak şekillendirin ve kızgın yağda kızartın. Bu aşamada ellerinizi yağlarsanız çok daha kolay şekil verebilirsiniz.\n•Şekillendirirken ortasına parmağınızla bir delik açmayı da unutmayın. Bu işlem pişinin ortasının da güzelce pişmesini ve hamur kalmamasını sağlayacaktır.\n•Sıcak sıcak servis edin, Afiyet olsun.",
+          "kcal": 366,
+          "minute": 75,
+          "materials": [
+            {
+              "name": "•Yarım kg un"
+            },
+            {
+              "name": "•1 çorba kaşığı kuru maya"
+            },
+            {
+              "name": "•1 tatlı kaşığı şeker"
+            },
+            {
+              "name": "•1,5 tatlı kaşığı tuz"
+            },
+            {
+              "name": "•1 su bardağı ılık su"
+            },
+            {
+              "name": "•Sıvı yağ"
+            }
+          ]
+        },
+        {
+          "foodName": "Sucuklu Yumurta",
+          "image": "https://i.lezzet.com.tr/images-xxlarge/sucuklu_yumurta-764e66f1-1d63-4e81-8ebd-80262c5503aa",
+          "recipe": "•İnce dilimlenmiş 10-15 dilim sucuğu 1 tatlı kaşığı sıvıyağ ilave edilmiş bir tavada kızartın.\n•2 yumurtayı kırıp çırpmadan ilave edin. Kapağını kapatmadan 1-2 dakika pişirin.\n•Ateşten alıp 1 tutam tuz ve istediğiniz baharatla tatlandırın. Sıcak servis yapın.",
+          "kcal": 242,
+          "minute": 10,
+          "materials": [
+            {
+              "name": "•10 dilim sucuk"
+            },
+            {
+              "name": "•1 tatlı kaşığı sıvı yağ"
+            },
+            {
+              "name": "•2 yumurta"
+            },
+            {
+              "name": "•Tuz"
+            },
+            {
+              "name": "•Baharat"
+            }
+          ]
+        },
+        {
+          "foodName": "Yumurtalı Patates",
+          "image": "https://cdn.ye-mek.net/App_UI/Img/out/650/2021/02/yumurtali-patates-resimli-yemek-tarifi(11).jpg",
+          "recipe": "•Patatesleri soyarak küçük küpler halinde doğrayalım.\n•Ardından ocağa aldığımız ve ısıttığımız yağda hafif kızartalım.\n•Ayrı bir karıştırma kabına yumurtaları alalım, üzerine tuz ve baharatları ekleyerek çırpalım.\n•Patateslerimiz kızardıktan sonra üzerine düz bir kapak kapatarak fazla yağını süzelim.\n•Çırpılmış yumurtaları patatesin üzerine, her yerine eşit dağılacak şekilde dökelim.\n•Tavanın kapağını kapatarak kısık ateşte, altı hafif kızarana kadar pişirelim.\n•Altı piştikten sonra düz bir kapak kapatalım ve çevirerek diğer yüzünü de pişirelim. Altı üstü güzelce kızaran yumurtalı patatesi servis tabağına alarak servis edelim.",
+          "kcal": 131,
+          "minute": 25,
+          "materials": [
+            {
+              "name": "•2 adet patates"
+            },
+            {
+              "name": "•Yarım çay bardağı sıvı yağ"
+            },
+            {
+              "name": "•4 adet yumurta"
+            },
+            {
+              "name": "•1 silme çay kaşığı tuz"
+            },
+            {
+              "name": "•Çay kaşığı ucu ile karabiber"
+            },
+            {
+              "name": "•Çay kaşığı ucu ile toz biber"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Aperatifler",
+      "categoryImage": "https://listelist.com/wp-content/uploads/2019/12/page-1-750x375.jpg",
+      "foods": [
+        {
+          "foodName": "Ev Yapımı Cips",
+          "image": "https://www.fabiofood.com/wp-content/uploads/2020/06/hazir-yufkadan-citir-citir-cips-fabiofood-com.jpg",
+          "recipe": "•İlk olarak soğanı rendeleyerek suyunu alalım.\n•Sarımsağı iri olacak şekilde keselim.\n•Salçası sos için tüm malzemeleri derince bir kapta güzelce karıştıralım.\n•1 tane yufka alarak tezgaha serelim.\n•Yufkanın yarısına hazırladığımız sostan sürelim ve diğer yarısını üzerine kapatalım.\n•D şekline gelen yufkamızın üzerine ve ters çevirerek altına da sos sürelim. Yani yufkamızın her yeri soslanmış olmalı.\n•Güzelce soslanan yufkamızı önce kare kare olacak şekilde keselim. Daha sonra verev keserek üçgen dilimler elde edelim.\n•Yağlı kağıt serdiğimiz fırın tepsisine kestiğimiz üçgen yufkaları sıralayalım. 1 yufka 2 tepsiye sığıyor. Ben iki tepsiyi birlikte pişirdim. Nasıl pişirdiğimi daha detaylı bir şekilde yazının devamında bulabilirsiniz.\n•Önceden ısıttığımız 180 derece fırında 6-7 dakika fırınlayalım. Daha sonra fırın derecesini 120 dereye düşürerek yufkalar tamamen kuruyup çıtır çıtır olana kadar pişirin.\n•Soğuyan cipslerimiz servise hazır. Güzel bir dip sos hazırlayarak afiyetle ve gönül rahatlığı ile tüketebilirsiniz.",
+          "kcal": 286,
+          "minute": 90,
+          "materials": [
+            {
+              "name": "•2 adet yufka"
+            },
+            {
+              "name": "•2 yemek kaşığı domates salçası"
+            },
+            {
+              "name": "•2 yemek kaşığı mısır unu"
+            },
+            {
+              "name": "•1 çay bardağı sıvı yağ"
+            },
+            {
+              "name": "•1 çay bardağı su"
+            },
+            {
+              "name": "•1 küçük boy soğan"
+            },
+            {
+              "name": "•1 diş sarımsak"
+            },
+            {
+              "name": "•1 çay kaşığı nane"
+            },
+            {
+              "name": "•1 çay kaşığı kekik"
+            },
+            {
+              "name": "•1 çay kaşığı pulbiber"
+            },
+            {
+              "name": "•1 çay kaşığı tuz"
+            }
+          ]
+        },
+        {
+          "foodName": "Fırında Baharatlı Patates",
+          "image": "https://i2.wp.com/www.sicaktencere.com/wp-content/uploads/2018/06/F%C4%B1r%C4%B1nda-Baharatl%C4%B1-Patates-1.jpg?fit=670%2C712&ssl=1",
+          "recipe": "•Patateslerin kabuklarını soyarak dilimleyin, çok ince olmasın.\n•Dilimlediğiniz patatesleri tepsiye alın ve üzerine baharatları ekleyin ve iyice harmanlayın.\n•Daha sonra tepsiye dizelim.\n•Üzerlerine sıvı yağ gezdirelim.\n•Önceden ısıttığımız 180 derece fırında patatesler kızarana kadar pişirin.",
+          "kcal": 130,
+          "minute": 35,
+          "materials": [
+            {
+              "name": "•3 adet patates"
+            },
+            {
+              "name": "•1 er çay kaşığı tuz, karabiber, pul biber"
+            },
+            {
+              "name": "•Yarım yemek kaşığı nişasta veya un"
+            },
+            {
+              "name": "•Sıvı yağ"
+            }
+          ]
+        },
+        {
+          "foodName": "Haydari",
+          "image": "https://i.lezzet.com.tr/images-xxlarge/haydari-362402fa-8bb5-4eb8-88df-fb4319f51c33",
+          "recipe": "•İlk olarak tavaya tereyağını alarak kızdıralım. Bu aşamada cağı çok yüksek ateşte açıp yağı yakmamaya dikkat edelim.\n•Daha sonra naneyi ekleyerek 1-2 tur karıştıralım ve ocaktan alalım.\n•Karıştırma kabına süzme yoğurdu alalım.\n•Diğer taraftan beyaz peyniri çatalla ezerek ufalayalım, dereotunu ince ince kıyalım.\n•Süzme yoğurdun üzerine peynir ve dereotunu ilave edelim.\n•Son olarak naneli tereyağı, ezilmiş sarımsak, tuzu ekleyerek karıştıralım.\n•Haydari mezesini servis tabağına alarak üzerini zeytinyağı ve dereotu ile süsleyelim.",
+          "kcal": 64,
+          "minute": 10,
+          "materials": [
+            {
+              "name": "•6 yemek kaşığı süzme yoğurt"
+            },
+            {
+              "name": "•1 tutam dereotu"
+            },
+            {
+              "name": "•1 yemek kaşığı tereyağı"
+            },
+            {
+              "name": "•1 tatlı kaşığı nane"
+            },
+            {
+              "name": "•1 çay kaşığı tuz"
+            },
+            {
+              "name": "•1 dilim beyaz peynir"
+            },
+            {
+              "name": "•1 diş sarımsak"
+            }
+          ]
+        },
+        {
+          "foodName": "Humus",
+          "image": "https://iasbh.tmgrup.com.tr/581a92/821/464/0/0/800/452?u=https://isbh.tmgrup.com.tr/sbh/2021/10/21/humus-tarifi-evde-humus-tarifi-nasil-yapilir-1634824366420.jpg",
+          "recipe": "•Bütün malzemeleri blenderde iyice püre haline gelene kadar eziyoruz.\n•Servis tabağına aldıktan sonra üzerine zeytinyağı gezdiriyoruz ve kırmızı biber, sumak serpiyoruz. Afiyet olsun.",
+          "kcal": 218,
+          "minute": 10,
+          "materials": [
+            {
+              "name": "•3 su bardağı konverse nohut"
+            },
+            {
+              "name": "•1/3 su bardağı tahin"
+            },
+            {
+              "name": "•2 limonun suyu"
+            },
+            {
+              "name": "•1 çay kaşığı tuz"
+            },
+            {
+              "name": "•2 diş sarımsak"
+            },
+            {
+              "name": "•Yarım çay kaşığı kimyon"
+            },
+            {
+              "name": "•1 yemek kaşığı zeytinyağı"
+            },
+            {
+              "name": "•Kırmızı biber"
+            },
+            {
+              "name": "•Sumak"
+            }
+          ]
+        },
+        {
+          "foodName": "Kumru",
+          "image": "https://i.ytimg.com/vi/7z-CMi_L688/maxresdefault.jpg",
+          "recipe": "•Sosis, salam ve sucuk jülyen şekilde dilimlenir. Isıtılmış tavada sotelenir.\n•Sandviç ekmeği ikiye bölünüp ısıtılır. Sandviç ekmeğinin arasına sotelenmiş malzemeler konulur.\n•Kaşar peyniri tavada arkalı önlü erimeden kızartılır. Ekmek arasındaki malzemelerin üstüne konur. Tercihe göre ketçap ve mayonez sıkılıp servis edilir.",
+          "kcal": 283,
+          "minute": 25,
+          "materials": [
+            {
+              "name": "•Sucuk"
+            },
+            {
+              "name": "•Sosis"
+            },
+            {
+              "name": "•Salam"
+            },
+            {
+              "name": "•Kaşar peyniri"
+            },
+            {
+              "name": "•Sandviç ekmeği"
+            }
+          ]
+        },
+        {
+          "foodName": "Soğan Halkası",
+          "image": "https://media.istockphoto.com/photos/onion-rings-with-ketchup-picture-id865789218?k=20&m=865789218&s=612x612&w=0&h=HaUafEXAtPbZhfLG0SW_Tf3mwknsXxMAEfXAbH6KXPU=",
+          "recipe": "•Soğanı soyup yıkayalım.\n•Halka halka doğrayıp birbirinden ayıralım.\n•Sosu için nişasta, un, mısır unu, tuz ve karabiberi bir kaba alalım.\n•Üzerine bir çay bardağı maden suyu ekleyip güzelce çırpma teliyle çırpalım. Sosu hazır.\n•Başka bir tabağa galeta unu koyalım bulamak için.\n•Soğan halkalarını önce hamurlu sosa batıralım güzelce arkasını önünü hamurla kaplayalım, ardından galeta ununa tamamını bulayıp kızgın yağda arkalı önlü kızartalım.",
+          "kcal": 240,
+          "minute": 15,
+          "materials": [
+            {
+              "name": "•1-2 tane soğan"
+            },
+            {
+              "name": "•2 yemek kaşığı nişasta"
+            },
+            {
+              "name": "•4 yemek kaşığı mısır unu"
+            },
+            {
+              "name": "•3 yemek kaşığı beyaz un"
+            },
+            {
+              "name": "•1 çay kaşığı karbonat"
+            },
+            {
+              "name": "•1 çay bardağı maden suyu"
+            },
+            {
+              "name": "•1 su bardağı galeta unu"
+            },
+            {
+              "name": "•Sıvı yağ"
+            },
+            {
+              "name": "•Tuz"
+            }
+          ]
+        },
+        {
+          "foodName": "Sosisli Milföy",
+          "image": "https://i.ytimg.com/vi/brKgf17r-N8/maxresdefault.jpg",
+          "recipe": "Sosislerimizin alt ve üst kısımlarına çarpı şeklinde çizikler atıyoruz.\n•Milföylerimizi de uzunlamasına 3 eşit parçaya ayırıyoruz.\n•Daha sonra sosislerimizi milföylerimize sarıyoruz. Üstüne yumurta sarısını sürüp susam ve çörek otuyla süslüyoruz.\n•175 derecede 20 -25 dakika pişiriyoruz.",
+          "kcal": 311,
+          "minute": 30,
+          "materials": [
+            {
+              "name": "•15-20 adet sosis"
+            },
+            {
+              "name": "•Milföy hamuru"
+            },
+            {
+              "name": "•1 yumurta sarısı"
+            },
+            {
+              "name": "•Çörek otu"
+            },
+            {
+              "name": "•Susam"
+            }
+          ]
+        },
+        {
+          "foodName": "Tepside Kumpir",
+          "image": "https://cdn.ye-mek.net/App_UI/Img/out/650/2017/10/tepside-kumpir-resimli-yemek-tarifi(11).jpg",
+          "recipe": "•Patatesleri haşlayıp ezin. İçine tereyağı, tuz ve 1 su bardağı rendelenmiş kaşar peynirini ekleyip karıştırın.\n•Püreyi yapışmaması için yağlanmış ya da su ile ıslatılmış borcama elinizle bastırarak her tarafa eşit gelecek şekilde yayın.\n•Ayrı bir tavada bir tatlı kaşığı salça ile halka halka doğranmış sosisleri soteleyin ve patatesin üzerine yayın.\n•Onun üzerine halka halka doğranmış zeytinleri, kornişon turşu, mısır, havuç ve bezelye karışımını dökün.\n•En üstüne kalan kaşar peynirini serpiştirip 200 derece fırında kaşarlar eriyene kadar pişirin.\n•Ketçap ve mayonez eşliğinde servis edin. Afiyet Olsun.",
+          "kcal": 253,
+          "minute": 20,
+          "materials": [
+            {
+              "name": "•6-7 adet orta boy patates"
+            },
+            {
+              "name": "•2 yemek kaşığı tereyağı"
+            },
+            {
+              "name": "•1 su bardağı konserve mısır"
+            },
+            {
+              "name": "•1. 5 su bardağı haşlanmış bezelye"
+            },
+            {
+              "name": "•1. 5 su bardağı haşlanmış havuç"
+            },
+            {
+              "name": "•1. 5 su bardağı rendelenmiş kaşar peyniri"
+            },
+            {
+              "name": "•5 adet sosis"
+            },
+            {
+              "name": "•Yeşil ve siyah zeytin"
+            },
+            {
+              "name": "•1 çay bardağı kornişon turşu"
+            },
+            {
+              "name": "•Tuz"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
